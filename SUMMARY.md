@@ -8,5 +8,4 @@
 
 ***
 
-* [Page 1](page-1.md)
 * [Nominations](nominations.md)
