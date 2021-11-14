@@ -14,6 +14,14 @@
 
 ### Heinz Gassner
 
+## General ADA Holders
+
+### Eli Selkin
+
+### Alison Fromm
+
+### Aldion Ka
+
 
 
 ## Stake Pool Operators
@@ -40,3 +48,11 @@ Value:
 ### Ron Hill
 
 Ron consistently shows up for Catalyst meetings, townhalls, and anything necessary to make sure the mission of SPOCRA succeeds; to provide a resource for SPOs that ensures the integrity and equilibrium of the blockchain. Via live stream interviews with ecosystem partners, breakouts in Catalyst and Swarm, and countless other venues, Ron shows up for this community in a way that gives me confidence he's a solid candidate.
+
+## Toolmakers & Maintainers
+
+### Vincent Branden
+
+### George Lovegrove
+
+### Tevo Saks
