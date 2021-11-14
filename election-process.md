@@ -1,11 +1,13 @@
 # Election Process
 
-Start
+### Start
 
 ![](<.gitbook/assets/2021-11-14 (12).png>)
 
-c
+### Electable community seats
 
 ![](<.gitbook/assets/2021-11-14 (13).png>)
+
+### Breakout rooms
 
 ![](<.gitbook/assets/2021-11-14 (14).png>)
