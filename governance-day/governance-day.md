@@ -6,7 +6,7 @@ description: Governance Day, 6th November 2021
 
 ## Announcement
 
-![Discord Announcement](<../.gitbook/assets/2021-11-06 (6).png>)
+![](<../.gitbook/assets/2021-11-06 (6).png>)
 
 #### Discord context
 
@@ -18,44 +18,22 @@ description: Governance Day, 6th November 2021
 
 ### Start
 
-![](../.gitbook/assets/2021-11-06.png)
-
 ### Schedule
-
-![](<../.gitbook/assets/2021-11-06 (1).png>)
 
 ### Fireside Chats - Room 1 - Governance Perspectives
 
-![](<../.gitbook/assets/2021-11-06 (2).png>)
-
 ### Fireside Chats - Room 2 - Across the Chains
-
-![](<../.gitbook/assets/2021-11-06 (3).png>)
 
 ### Register
 
-![](<../.gitbook/assets/2021-11-06 (4).png>)
-
 ### Mailchimp
 
-![](<../.gitbook/assets/2021-11-06 (5).png>)
-
-## Eastern Townhall&#x20;
+## Eastern Townhall
 
 ### Experimenting with Governance
 
-![](../.gitbook/assets/2021-11-08.png)
-
 ### Create User
-
-![](<../.gitbook/assets/2021-11-08 (1).png>)
 
 ### Find Organisation
 
-![](<../.gitbook/assets/2021-11-08 (2).png>)
-
 ### Cast Your Vote
-
-![](<../.gitbook/assets/2021-11-08 (3).png>)
-
-![](<../.gitbook/assets/2021-11-08 (4).png>)
