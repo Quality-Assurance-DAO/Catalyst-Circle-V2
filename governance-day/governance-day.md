@@ -34,7 +34,7 @@ description: Governance Day, 6th November 2021
 
 ### Register
 
-![](<../.gitbook/assets/2021-11-14 (10).png>)
+![](<../.gitbook/assets/2021-11-14 (10) (1).png>)
 
 ### Mailchimp
 

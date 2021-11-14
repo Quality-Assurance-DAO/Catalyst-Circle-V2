@@ -8,6 +8,7 @@
 
 ***
 
+* [Election Process](election-process.md)
 * [Nominations](nominations.md)
 
 ## Meetings
