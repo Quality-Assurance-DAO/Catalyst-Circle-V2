@@ -83,7 +83,7 @@ Approaches used by CCv1 to problem-sense with their communities:
 
 * New CC Slack channel: will be primary communication channel outside meetings for CCv2, Admin team, and CCv1 alumni (agenda planning, Fund 7 proposals discussion, etc.)
 * Slack integrations are available – not free, but there is budget if it’s desired.&#x20;
-* Currently using Trello to track problem-sensing, tho this can change if people want. <mark style="color:red;">ACTION ITEM: To be discussed at future CCv2 meeting</mark>.
+* Currently using Trello to track problem-sensing, tho this can change if people want. <mark style="color:red;">**ACTION ITEM**</mark><mark style="color:red;">: To be discussed at future CCv2 meeting</mark>.
 * GitBook documentation of meetings will continue to be done by QA-DAO. Access to video recordings and minutes needed.
 * Website in progress for high-level learning about Catalyst Circle and links to public documentation; some of the GitBook info might also be there
 * Catalyst Circle email addresses will be set up.
