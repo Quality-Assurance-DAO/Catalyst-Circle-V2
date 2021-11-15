@@ -158,7 +158,7 @@ Each CCv2 member in turn outlines their initial ideas for next 30 days.
 
 ## 5) Meeting feedback (1:46:36)
 
-(**Nori  1:46:36)  **Normally we fill out the feedback form in the meeting, but today I want to get some closing comments from everybody verbally. Feedback form completion is “homework” . Feedback Form: [https](https://forms.gle/Jp8UXoqP4ggFijjS8)[://](https://forms.gle/Jp8UXoqP4ggFijjS8)[forms](https://forms.gle/Jp8UXoqP4ggFijjS8)[.](https://forms.gle/Jp8UXoqP4ggFijjS8)[gle](https://forms.gle/Jp8UXoqP4ggFijjS8)[/](https://forms.gle/Jp8UXoqP4ggFijjS8)[Jp](https://forms.gle/Jp8UXoqP4ggFijjS8)[8](https://forms.gle/Jp8UXoqP4ggFijjS8)[UXoqP](https://forms.gle/Jp8UXoqP4ggFijjS8)[4](https://forms.gle/Jp8UXoqP4ggFijjS8)[ggFijjS](https://forms.gle/Jp8UXoqP4ggFijjS8)[8](https://forms.gle/Jp8UXoqP4ggFijjS8)&#x20;
+(**Nori  1:46:36)  **Normally we fill out the feedback form in the meeting, but today I want to get some closing comments from everybody verbally. Feedback form completion is “homework” .
 
 ### **Closing remarks from everyone in turn:**
 
