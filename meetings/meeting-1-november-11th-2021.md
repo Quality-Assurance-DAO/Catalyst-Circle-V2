@@ -22,7 +22,7 @@ Catalyst Circle V2 Meeting #1
 
 Dor (26%), Nori (21%), Tevo (7%), Stephen (7%), Victor (6%), Lauris (5%), Felix (4%), Juliane (4%), Matthias (3%), Raymond (3%), Kenric (3%), Harris (3%), Allison (3%), Michael (3%), JP (1%), Peter (1%), Nadim (1%)
 
-### 1) Welcome & Introductions
+## 1) Welcome & Introductions
 
 **Dor  (2:05) **My name is Dor; I'm the head of product governance of IOG, former Circle member, and now a mentor for Harris.
 
