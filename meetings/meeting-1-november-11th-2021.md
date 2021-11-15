@@ -170,5 +170,7 @@ Each CCv2 member in turn outlines their initial ideas for next 30 days.
 
 ## Key words from this meeting
 
-**The most common words used in this meeting were:**![](<../.gitbook/assets/frequentword meeting 1, 11th nov.JPG>) &#x20;
+**The most common words used in this meeting were:**
+
+****![](<../.gitbook/assets/frequentword meeting 1, 11th nov.JPG>) &#x20;
 
