@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Catalyst-Circle-V2](README.md)
+* [Catalyst Circle V2](README.md)
 
 ## Governance Day
 
