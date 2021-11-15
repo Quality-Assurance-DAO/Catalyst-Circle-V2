@@ -167,3 +167,9 @@ Each CCv2 member in turn outlines their initial ideas for next 30 days.
 ### Closing speech
 
 (**Dor  1:59:21) **Closing speech comparing CC to giving birth, and praising the concept of leadership&#x20;
+
+## Key words from this meeting
+
+**The most common words used in this meeting were:** &#x20;
+
+![](../.gitbook/assets/frequentword.JPG)
