@@ -89,7 +89,7 @@ Approaches used by CCv1 to problem-sense with their communities:
   * let us know in advance;
   * have someone from your group fill in for you in real time
   * listen to the recording, and share your notes/input after the fact
-* <mark style="color:red;">ACTION ITEM: In future, Admin team will include in the Minutes a list of who is present, to track attendance</mark> (**Nori  33:42)**
+* <mark style="color:red;">**ACTION ITEM**</mark><mark style="color:red;">: In future, Admin team will include in the Minutes a list of who is present, to track attendance</mark> (**Nori  33:42)**
 * CC role is to guide and advise, not to make decisions. BUT we (IOG) are working on extending its scope; it might have some decision-making power in future, even in this term. (**Dor 35:07)**
 
 ### **Process explanation  (38:16)**
