@@ -24,7 +24,7 @@ Catalyst Circle V2 Meeting #1
 
 Dor (26%), Nori (21%), Tevo (7%), Stephen (7%), Victor (6%), Lauris (5%), Felix (4%), Juliane (4%), Matthias (3%), Raymond (3%), Kenric (3%), Harris (3%), Allison (3%), Michael (3%), JP (1%), Peter (1%), Nadim (1%)
 
-## 1) Welcome & Introductions
+## 1) Welcome & Introductions (1:45)
 
 **Dor  (2:05) **My name is Dor; I'm the head of product governance of IOG, former Circle member, and now a mentor for Harris.
 
@@ -58,7 +58,7 @@ Dor (26%), Nori (21%), Tevo (7%), Stephen (7%), Victor (6%), Lauris (5%), Felix 
 
 **Tevo  (8:53) **I’m Tevo, from Estonia. I was funded in Fund 1, and been actively participating since then. I represent Toolmakers and Maintainers in CCv2.
 
-## 2) Introduction** to the Circle**
+## 2) CCv1 Induction (11:25)
 
 ### **General introduction (Victor, 12:13)**
 
@@ -66,7 +66,7 @@ Dor (26%), Nori (21%), Tevo (7%), Stephen (7%), Victor (6%), Lauris (5%), Felix 
 * Don’t have to do everything by yourself. You’re here to lead, coordinate, and inspire your groups, and to build bridges.
 * It's a big responsibility, but it's also an experiment. As in Catalyst overall, things may break. Don't be afraid of changing things.
 
-### **Problem-sensing best practices (18:13)**
+### **Problem-sensing recommendations (18:13)**
 
 Approaches used by CCv1 to problem-sense with their communities:
 
@@ -79,7 +79,20 @@ Approaches used by CCv1 to problem-sense with their communities:
 * Use and talk to your community
 * If you feel you don’t know how to facilitate a problem sensing session, you can learn from others in Circle. This is a safe space to be real about what you feel comfortable & confident about.
 
-### **Processes explanation  (38:16)**
+### **Expectation management (25.29)**
+
+* If you need help, ask the rest of Circle (**Lauris,  26:13)**
+* Look for natural collaborations e.g. Toolmakers with CAs (**Felix  26:48 )**
+* Also try working with groups that are not obvious collaborations; you might find something unexpectedly useful (**Nori  27:39)**
+* Time expectations fluctuate depending on problem statements picked up: 8-10 hours (heavy) to 2 hours (light) a week (**Victor  28:24)**&#x20;
+* Meeting attendance: if you can’t attend: (**Dor  32:32)  **&#x20;
+  * let us know in advance;
+  * have someone from your group fill in for you in real time
+  * listen to the recording, and share your notes/input after the fact
+* <mark style="color:red;">ACTION ITEM: In future, Admin team will include in the Minutes a list of who is present, to track attendance</mark> (**Nori  33:42)**
+* CC role is to guide and advise, not to make decisions. BUT we (IOG) are working on extending its scope; it might have some decision-making power in future, even in this term. (**Dor 35:07)**
+
+### **Process explanation  (38:16)**
 
 * New CC Slack channel: will be primary communication channel outside meetings for CCv2, Admin team, and CCv1 alumni (agenda planning, Fund 7 proposals discussion, etc.)
 * Slack integrations are available – not free, but there is budget if it’s desired.&#x20;
@@ -93,12 +106,14 @@ Approaches used by CCv1 to problem-sense with their communities:
 * <mark style="color:red;">**ACTION ITEM:**</mark> <mark style="color:red;">Admin Team to add Daniel Ribar to Slack, then retire CC Telegram</mark>&#x20;
 * **Prototyping  (Dor, 49:22)** Catalyst is a prototype of Voltaire governance. Look for the best tools and techniques, experiment with them in Circle, and if they work, they could become part of Cardano’s canon of governance methodologies.
 * **Accessibility (Stephen, 52:03)** – Good to experiment with tools – but need to make it accessible. Sometimes proprietary tools are inaccessible.
-* **Processes  and tools for communicating the work of Circle:** (52:53)
-  * SPOCRA uses public meetings
-  * one-to-one discussions with key people
-  * CAs use Telegram, and find it better than Discord
-  * reaching General Voters is harder; Voter Surveys (incentivised and non-incentivised) might help.
-    * <mark style="color:red;">**ACTION ITEM**</mark><mark style="color:red;">: share and discuss voter surveys from funds 1-5 at a future CCv2 meeting.</mark>
+*   **Processes  and tools for communicating the work of Circle:** (52:53)
+
+    * SPOCRA uses public meetings
+    * one-to-one discussions with key people
+    * CAs use Telegram, and find it better than Discord
+    * reaching General Voters is harder; Voter Surveys (incentivised and non-incentivised) might help.
+
+    <mark style="color:red;">**DECISION**</mark><mark style="color:red;">: share and discuss voter surveys from funds 1-5 at a future CCv2 meeting.</mark>
 
 ## **3) Trello board handover (1:01:02) **[_Trello_](https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems)[_ _](https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems)[_Board_](https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems)
 
@@ -115,7 +130,7 @@ Th_e_ columns are:
   * “validation”, if the prototype solution is successful; and then “integrated”, when the solution becomes fully integrated into the Catalyst process
   * “rejected”,  if the prototype solution is unsuccessful
 
-### **Approaches to Trello **
+### **Discussion of Trello (1:11:24) **
 
 * Can we split tasks into subtasks? **(Tevo 1:11:27)**
 * Some problems might be too specific, others too broad – CCv2 might want to discuss this during their problem-sensing (**Victor 1:14:06) **
@@ -126,21 +141,21 @@ Th_e_ columns are:
 * Trello cards should be moved within meetings only
 * CCv2 should make a fresh start at defining problems – but if a problem identified by CCv1 still resonates, keep it on the board **Dor  1:20:31 **
 * Mentors can help give background info on existing cards **Juliane 1:23:06**
-* <mark style="color:red;">**DECISION**</mark> <mark style="color:red;">– review the board in CCv2’s next meting and decide which cards to keep</mark>
+* <mark style="color:red;">**DECISION**</mark> <mark style="color:red;">– review the Trello board in CCv2’s next meting and decide which cards to keep</mark>
 * Perhaps named owners of Trello cards should be the role, not the name of the individual? Undecided – person’s name might be useful for emphasis
 * More than one name can “own” a card
 * CCv1 members who are still engaged with a problem can continue to be involved; they should liaise with their CCv2 counterpart
 * <mark style="color:red;">**ACTION ITEM: **</mark><mark style="color:red;">Admin team to invite CCv2 to the Trello board</mark>
 
-## **4) CCv2 initial 30-day plan (1:27:27)**
+## **4) Initial 30-day plan (1:27:58)**
 
-### Proposals deadline
+### Proposals deadline (1:28:14)
 
 * Fund 7 deadline is approaching: urgency to prepare CC proposals
 * This time, Admin team has prepared them – CCv2 will finalise.
 * In future, outgoing CC team will prepare proposals to hand over to next CC team. CCv2 will do this for CCv3.
 
-### CCv2 individual plans
+### CCv2 individual plans (1:32:30)
 
 Each CCv2 member in turn outlines their initial ideas for next 30 days.
 
@@ -152,7 +167,7 @@ Each CCv2 member in turn outlines their initial ideas for next 30 days.
 * **Raymond (1:39:21)  **: wants to find ways to inform stakepool operators on how to get involved with Catalyst, e.g. as CAs. Wants to build problem-sensing tools suitable for such a large, diverse and multilingual community.
 * **Tevo (1:40:49) **: after next weekend, will hold a session for Toolmakers about sense-making, using a sense-making Miro board. Also wants to improve the onboarding process for CCv3.
 
-### **Scope **
+### **Scope (1:42:30)**
 
 **(Dor 1:42:30) **It’s tempting to go beyond the scope of Catalyst, to the entire Cardano ecosystem; but we're not very well resourced to deal with such issues from here. So frame problem-sensing exercises as problems with Catalyst, to get problems we can actually address from within Circle.
 
@@ -160,13 +175,13 @@ Each CCv2 member in turn outlines their initial ideas for next 30 days.
 
 (**Nori  1:46:36)  **Normally we fill out the feedback form in the meeting, but today I want to get some closing comments from everybody verbally. Feedback form completion is “homework” .
 
-### **Closing remarks from everyone in turn:**
+### **Closing remarks from everyone in turn (1:47:40)**
 
 * CCv2 - happy, excited and a little nervous
 * CCv1 - happy, and a little emotional to be leaving;
 * All - offer thanks & appreciation to their own team, the other team, and the CC Admin team
 
-### Closing speech
+### Closing speech (1:59:21)
 
 (**Dor  1:59:21) **Closing speech comparing CC to giving birth, and praising the concept of leadership&#x20;
 
@@ -176,3 +191,10 @@ Each CCv2 member in turn outlines their initial ideas for next 30 days.
 
 ****![](<../.gitbook/assets/frequentword meeting 1, 11th nov.JPG>) &#x20;
 
+## Appendix
+
+Full verbatim transcript of this meeting
+
+
+
+Agenda and minutes from Admin team
