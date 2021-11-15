@@ -1,0 +1,414 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff1\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang2057\deflangfe2057{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f231\froman\fcharset238\fprq2 Times New Roman CE;}{\f232\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f234\froman\fcharset161\fprq2 Times New Roman Greek;}{\f235\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f236\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f237\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f238\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f239\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\f241\fswiss\fcharset238\fprq2 Arial CE;}{\f242\fswiss\fcharset204\fprq2 Arial Cyr;}{\f244\fswiss\fcharset161\fprq2 Arial Greek;}{\f245\fswiss\fcharset162\fprq2 Arial Tur;}{\f246\fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f247\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f248\fswiss\fcharset186\fprq2 Arial Baltic;}{\f249\fswiss\fcharset163\fprq2 Arial (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;
+\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;
+\red192\green192\blue192;\red67\green67\blue67;\red102\green102\blue102;\red17\green85\blue204;}{\stylesheet{\ql \li0\ri0\sl276\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\f1\fs22\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \snext0 Normal;}{\s1\ql \li0\ri0\sb400\sa120\sl360\slmult1\keep\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 
+\b\f1\fs28\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \sbasedon0 \snext0 heading 1;}{\s2\ql \li0\ri0\sb360\sa120\keep\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 
+\f1\fs26\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \sbasedon0 \snext0 heading 2;}{\s3\ql \li0\ri0\sb320\sa80\sl360\slmult1\keep\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0 
+\f1\fs22\cf17\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \sbasedon0 \snext0 heading 3;}{\s4\ql \li0\ri0\sb280\sa80\keep\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel3\adjustright\rin0\lin0\itap0 
+\f1\fs24\cf18\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \sbasedon0 \snext0 heading 4;}{\s5\ql \li0\ri0\sb240\sa80\keep\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel4\adjustright\rin0\lin0\itap0 
+\f1\fs22\cf18\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \sbasedon0 \snext0 heading 5;}{\s6\ql \li0\ri0\sb240\sa80\keep\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel5\adjustright\rin0\lin0\itap0 
+\i\f1\fs22\cf18\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \sbasedon0 \snext0 heading 6;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{
+\s15\ql \li0\ri0\sa60\keep\keepn\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs52\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \sbasedon0 \snext15 Title;}{
+\s16\ql \li0\ri0\sa320\keep\keepn\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs30\cf18\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \sbasedon0 \snext16 Subtitle;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0{\lsdlockedexcept Normal;heading 1;heading 2;heading 3;heading 4;heading 5;heading 6;heading 7;heading 8;heading 9;caption;Title;Subtitle;Strong;Emphasis;}}{\*\listtable{\list\listtemplateid1{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01-;}{\levelnumbers;}\ulnone \fi-360\li720\jclisttab\tx360\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'01-;}{\levelnumbers;}\ulnone \fi-360\li1440\jclisttab\tx1080\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01-;}{\levelnumbers;}\ulnone 
+\fi-180\li2160\jclisttab\tx1800\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01-;}{\levelnumbers;}\ulnone \fi-360\li2880\jclisttab\tx2520\lin2880 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01-;}{\levelnumbers;}\ulnone \fi-360\li3600\jclisttab\tx3240\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'01-;}{\levelnumbers;}\ulnone \fi-180\li4320\jclisttab\tx3960\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01-;}{\levelnumbers;}\ulnone 
+\fi-360\li5040\jclisttab\tx4680\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01-;}{\levelnumbers;}\ulnone \fi-360\li5760\jclisttab\tx5400\lin5760 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01-;}{\levelnumbers;}\ulnone \fi-180\li6480\jclisttab\tx6120\lin6480 }{\listname ;}\listid1}{\list\listtemplateid2{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9679 ?;}{\levelnumbers;}\ulnone \fi-360\li720\jclisttab\tx360\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'01\u9675 ?;}{\levelnumbers;}\ulnone \fi-360\li1440\jclisttab\tx1080\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9632 \'a6;}{\levelnumbers;}\ulnone 
+\fi-180\li2160\jclisttab\tx1800\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9679 ?;}{\levelnumbers;}\ulnone \fi-360\li2880\jclisttab\tx2520\lin2880 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9675 ?;}{\levelnumbers;}\ulnone \fi-360\li3600\jclisttab\tx3240\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9632 \'a6;}{\levelnumbers;}\ulnone \fi-180\li4320\jclisttab\tx3960\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u9679 ?;}{\levelnumbers;}\ulnone \fi-360\li5040\jclisttab\tx4680\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9675 ?;}{\levelnumbers;}\ulnone \fi-360\li5760
+\jclisttab\tx5400\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9632 \'a6;}{\levelnumbers;}\ulnone \fi-180\li6480\jclisttab\tx6120\lin6480 }{\listname ;}\listid2}
+{\list\listtemplateid3{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9679 ?;}{\levelnumbers;}\ulnone \fi-360\li720\jclisttab\tx360\lin720 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9675 ?;}{\levelnumbers;}\ulnone \fi-360\li1440\jclisttab\tx1080\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'01\u9632 \'a6;}{\levelnumbers;}\ulnone \fi-180\li2160\jclisttab\tx1800\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9679 ?;}{\levelnumbers;}
+\ulnone \fi-360\li2880\jclisttab\tx2520\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9675 ?;}{\levelnumbers;}\ulnone \fi-360\li3600\jclisttab\tx3240\lin3600 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9632 \'a6;}{\levelnumbers;}\ulnone \fi-180\li4320\jclisttab\tx3960\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9679 ?;}{\levelnumbers;}\ulnone \fi-360\li5040\jclisttab\tx4680\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u9675 ?;}{\levelnumbers;}\ulnone \fi-360\li5760\jclisttab\tx5400\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9632 \'a6;}{\levelnumbers;}\ulnone \fi-180\li6480
+\jclisttab\tx6120\lin6480 }{\listname ;}\listid3}{\list\listtemplateid4{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9679 ?;}{\levelnumbers;}\ulnone \fi-360\li720
+\jclisttab\tx360\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9675 ?;}{\levelnumbers;}\ulnone \fi-360\li1440\jclisttab\tx1080\lin1440 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9632 \'a6;}{\levelnumbers;}\ulnone \fi-180\li2160\jclisttab\tx1800\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'01\u9679 ?;}{\levelnumbers;}\ulnone \fi-360\li2880\jclisttab\tx2520\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u9675 ?;}{\levelnumbers;}\ulnone \fi-360\li3600\jclisttab\tx3240\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9632 \'a6;}{\levelnumbers;}\ulnone \fi-180\li4320
+\jclisttab\tx3960\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9679 ?;}{\levelnumbers;}\ulnone \fi-360\li5040\jclisttab\tx4680\lin5040 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9675 ?;}{\levelnumbers;}\ulnone \fi-360\li5760\jclisttab\tx5400\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'01\u9632 \'a6;}{\levelnumbers;}\ulnone \fi-180\li6480\jclisttab\tx6120\lin6480 }{\listname ;}\listid4}}{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}
+{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}}{\*\rsidtbl \rsid4800463\rsid7038293\rsid10976062\rsid13249109}{\*\generator Microsoft Word 11.0.5604;}{\info{\title Agenda Items for CCv2 meeting #1}{\author X}
+{\operator X}{\creatim\yr2021\mo11\dy14\hr16\min25}{\revtim\yr2021\mo11\dy14\hr16\min25}{\version2}{\edmins0}{\nofpages5}{\nofwords2282}{\nofchars13009}{\nofcharsws15261}{\vern24689}}\paperw11909\paperh16834\margl1440\margr1440 
+\widowctrl\ftnbj\aenddoc\makebackup\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1440\dgvorigin1440\dghshow1\dgvshow1
+\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct\asianbrkrule\nojkernpunct\rsidroot10976062 
+\fet0\sectd \linex0\sectlinegrid360\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ql \li0\ri0\sl276\slmult1
+\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs22\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\b\fs24\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Agenda Items for CCv2 meeting #1}{
+\b\fs24\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\b\fs24\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Thursday, November 11th at 17.00 UTC}{\b\fs24\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Topic template:}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 (Topic start time) Topic of discussion/Objective - }{\b\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Leader(s)}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463  - }{
+\ul\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Duration in minutes}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 This meeting will be transcribed using }{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "Otter.ai"}{
+\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463\charrsid4800463 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b0200000001000000e0c9ea79f9bace118c8200aa004ba90b680000002e002e002f002e002e002f002e002e002f002e002e002f0041007000700044006100740061002f004c006f00630061006c002f00540065006d0070002f004f0074007400650072002e006100690000007958
+81f43b1d7f48af2c825dc485276300000000a5ab0003}}}{\fldrslt {\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Otter}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "Otter.ai"}{
+\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463\charrsid4800463 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b0200000001000000e0c9ea79f9bace118c8200aa004ba90b680000002e002e002f002e002e002f002e002e002f002e002e002f0041007000700044006100740061002f004c006f00630061006c002f00540065006d0070002f004f0074007400650072002e006100690000007958
+81f43b1d7f48af2c825dc485276300000000a5ab0003}}}{\fldrslt {\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 .}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "Otter.ai"}{
+\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463\charrsid4800463 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b0200000001000000e0c9ea79f9bace118c8200aa004ba90b680000002e002e002f002e002e002f002e002e002f002e002e002f0041007000700044006100740061002f004c006f00630061006c002f00540065006d0070002f004f0074007400650072002e006100690000007958
+81f43b1d7f48af2c825dc485276300000000a5ab0003}}}{\fldrslt {\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 ai}}}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463  }{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Link to recording: <insert here>}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Attendance:}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 CCv1}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Victor Corcino}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Felix Weber}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Lauris}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Dor Garbash}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Juliane Montag}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463                                                                                            
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+                
+                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+ 
+                                                                                                                                                                                                                                                               
+                                                                                                                                           CCv2}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Harris Warren}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Tevo Sask}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Raymond Mata}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Matthias Sieber}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Kenric Nelson}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Stephen Whitenstall}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Allison Fromm}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 CC Admin team}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Nadim Karam}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Nori Nishigaya}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 JP}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Michael Yagi}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Peter Wilcott}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard\plain \s1\ql \li0\ri0\sb400\sa120\sl360\slmult1\keep\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \b\f1\fs28\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {
+\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 {\*\bkmkstart h_95pj1i8x32im}{\*\bkmkend h_95pj1i8x32im}Planned agenda items for CCv2 meeting #1 - 120 min (2 hours) }{\fs34\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\fs24\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 {\*\bkmkstart h_ap6yuvp0tyxm}{\*\bkmkend h_ap6yuvp0tyxm}Opening, Announcements and Expectations Alignment (20 min) }{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard\plain \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs22\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 (00:00) Welcome
+ & Check-in - All - 15 min }{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \hich\af1\dbch\af0\loch\f1 -\tab}}\pard \ql \fi-360\li1080\ri0\sl360\slmult1\widctlpar\tx360\tx1080\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin1080\itap0 {
+\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 CC V1}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \hich\af1\dbch\af0\loch\f1 -\tab}}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Admin Team}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \hich\af1\dbch\af0\loch\f1 -\tab}}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 CC V2}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 (00:05) Revise agenda and align expectations - All - 5 min }{
+\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard\plain \s2\ql \li0\ri0\sb360\sa120\sl360\slmult1\keep\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \f1\fs26\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {
+\b\fs24\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 {\*\bkmkstart h_qbgmsls8rf}{\*\bkmkend h_qbgmsls8rf}CCv1 introduction (40 min) }{\b\fs24\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard\plain \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs22\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 
+(00.20) CCv1 to introduce the new CCv2 team into the Circle:}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}\pard \ql \fi-360\li1080\ri0\sl360\slmult1\widctlpar\tx360\tx1080\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin1080\itap0 {
+\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 General introduction}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Representing own groups, but not defending against other groups. Collaborative.}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Don\rquote 
+t have to do everything by yourself. Represent, build bridges, work together}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}\pard \ql \fi-360\li1080\ri0\sl360\slmult1\widctlpar\tx360\tx1080\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin1080\itap0 {
+\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Expectation management }{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Be real about what you feel comfortable & confident about}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Super active; contact if need help; corporate between groups}
+{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}\pard \ql \fi-360\li2520\ri0\sl360\slmult1\widctlpar
+\tx1800\tx2520\aspalpha\aspnum\faauto\ls2\ilvl2\adjustright\rin0\lin2520\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 TM and CA\rquote s work closely together}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Fluctuates depending on problem statements picked up}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}\pard \ql \fi-360\li2520\ri0\sl360\slmult1\widctlpar
+\tx1800\tx2520\aspalpha\aspnum\faauto\ls2\ilvl2\adjustright\rin0\lin2520\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 8-10 [heavy]}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Couple hours [light]}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Mandatory meeting attendance}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}\pard \ql \fi-360\li2520\ri0\sl360\slmult1\widctlpar
+\tx1800\tx2520\aspalpha\aspnum\faauto\ls2\ilvl2\adjustright\rin0\lin2520\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Reminder: funded proposal}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Notify circle in advance if absent}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 If absent, responsible for finding a representative}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Listen in to recording and share feedback if absent }{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}{\b\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 [action item - Admin team]}{
+\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463  find way for tracking attendance}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Don\rquote t have mandate / authority at the moment for funds or decisions}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Provide guidance, feedback}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Communicating Updates}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}\pard \ql \fi-360\li2520\ri0\sl360\slmult1\widctlpar
+\tx1800\tx2520\aspalpha\aspnum\faauto\ls2\ilvl2\adjustright\rin0\lin2520\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 SPO}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}\pard \ql \fi-360\li3240\ri0\sl360\slmult1\widctlpar
+\tx2520\tx3240\aspalpha\aspnum\faauto\ls2\ilvl3\adjustright\rin0\lin3240\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Updates in SPOCRA and smaller discussions}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}\pard \ql \fi-360\li2520\ri0\sl360\slmult1\widctlpar
+\tx1800\tx2520\aspalpha\aspnum\faauto\ls2\ilvl2\adjustright\rin0\lin2520\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Telegram channel}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 CA\rquote s channel for discord server}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}\pard \ql \fi-360\li1080\ri0\sl360\slmult1\widctlpar\tx360\tx1080\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin1080\itap0 {
+\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Process explanation}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 CC Slack}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}\pard \ql \fi-360\li2520\ri0\sl360\slmult1\widctlpar
+\tx1800\tx2520\aspalpha\aspnum\faauto\ls2\ilvl2\adjustright\rin0\lin2520\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Planning, agendas, operations communications}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Admin team, CC Alumni, CCv2}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Slack Connect}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 [Action Item - Michael Yagi] Task tracking tool; Current }{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}\pard \ql \fi-360\li2520\ri0\sl360\slmult1\widctlpar
+\tx1800\tx2520\aspalpha\aspnum\faauto\ls2\ilvl2\adjustright\rin0\lin2520\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Currently: Trello}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Website [WIP] for high level learning about Catalyst Circle}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Emails}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}\pard \ql \fi-360\li2520\ri0\sl360\slmult1\widctlpar
+\tx1800\tx2520\aspalpha\aspnum\faauto\ls2\ilvl2\adjustright\rin0\lin2520\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Instead of name, have role; transferable}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Confluence for internal documentation}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Gitbook docum
+entation to be continued for everything summarized and public facing and easy digestion}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 
+[Action Item] Retire Telegram - Add Danny to slack; Discord migrated to slack and delete}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}\pard \ql \fi-360\li1080\ri0\sl360\slmult1\widctlpar\tx360\tx1080\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin1080\itap0 {
+\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Priority setting}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Don\rquote t need to start from scratch, learn from v1 and continue from there}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}\pard \ql \fi-360\li1080\ri0\sl360\slmult1\widctlpar\tx360\tx1080\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin1080\itap0 {
+\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Recommendations and suggestions}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Sensing Problems with the community together}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Live session for decision making process}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}\pard \ql \fi-360\li2520\ri0\sl360\slmult1\widctlpar
+\tx1800\tx2520\aspalpha\aspnum\faauto\ls2\ilvl2\adjustright\rin0\lin2520\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 ATH and google forms}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Have support from admin team}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Find ways for more groups to collaborate together}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Looking to extend scope of work / decision making}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 CC channels for communicating to their communities}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}\pard \ql \fi-360\li2520\ri0\sl360\slmult1\widctlpar
+\tx1800\tx2520\aspalpha\aspnum\faauto\ls2\ilvl2\adjustright\rin0\lin2520\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Updates in gitbook and linked in site?}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9632\'a6}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 TODO - Onboarding for communication channels in confluence}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Look at results from Fund 1-5 for incentivized and non-incentivized voter survey}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 [Action Item - Harris] follow up on fund analysis & survey}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 [Action Item - Admin team] Break up PM & secretary}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard\plain \s2\ql \li0\ri0\sb360\sa120\sl360\slmult1\keep\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \f1\fs26\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {
+\b\fs24\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 {\*\bkmkstart h_k9hrmfe2u8l4}{\*\bkmkend h_k9hrmfe2u8l4}Trello board handover (30 min) }{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 
+HYPERLINK "https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems"}{\lang1033\langfe2057\langnp1033\insrsid7038293 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b78000000680074007400700073003a002f002f007400720065006c006c006f002e0063006f006d002f0062002f004400520042004f0036007100790046002f0063006100740061006c007900730074002d0070007200
+69006f0072006900740069007a00650064002d00700072006f0062006c0065006d007300000000}}}{\fldrslt {\i\fs22\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Trello}}}{\field{\*\fldinst {
+\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems"}{\lang1033\langfe2057\langnp1033\insrsid7038293 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b78000000680074007400700073003a002f002f007400720065006c006c006f002e0063006f006d002f0062002f004400520042004f0036007100790046002f0063006100740061006c007900730074002d0070007200
+69006f0072006900740069007a00650064002d00700072006f0062006c0065006d007300000000}}}{\fldrslt {\i\fs22\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463  }}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 
+HYPERLINK "https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems"}{\lang1033\langfe2057\langnp1033\insrsid7038293 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b78000000680074007400700073003a002f002f007400720065006c006c006f002e0063006f006d002f0062002f004400520042004f0036007100790046002f0063006100740061006c007900730074002d0070007200
+69006f0072006900740069007a00650064002d00700072006f0062006c0065006d007300000000}}}{\fldrslt {\i\fs22\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Board}}}{\i\fs22\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463  }{
+\b\fs24\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard\plain \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs22\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 
+(01.00) CCv1 to summarize and handover the trello board to CCv2 through providing information and context on:}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}\pard \ql \fi-360\li1080\ri0\sl360\slmult1\widctlpar\tx360\tx1080\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin1080\itap0 {
+\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 What was done}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 What is work in progress}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 What are the future priorities}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls3\ilvl1\adjustright\rin0\lin1800\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Go through current board and archive old items/board}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 
+Assign to role names rather than people; use people to emphasize}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 [Action Item - admin team] invite everyone to board}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Notes}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}\pard \ql \fi-360\li1080\ri0\sl360\slmult1\widctlpar\tx360\tx1080\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin1080\itap0 {
+\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Pick 1 problem as focus from problem sensing}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Need to have similar columns in Jira before migrating}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Share initiatives on CC website?}{
+\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf17\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}{\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Tools need to be publicly visible and easy to see at a glance
+}{\cf17\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard\plain \s2\ql \li0\ri0\sb360\sa120\sl360\slmult1\keep\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \f1\fs26\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {
+\b\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 {\*\bkmkstart h_2gzjzshmsg0h}{\*\bkmkend h_2gzjzshmsg0h}CCv2 initial 30-day plan (20 mins)}{\b\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard\plain \ql \li0\ri0\sl276\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs22\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\cf17\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 
+(01.30) CCv2 to share, discuss and align with CCv1 on their initial plans for the first 30 days within the circle.}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}\pard \ql \fi-360\li1080\ri0\sl360\slmult1\widctlpar\tx360\tx1080\aspalpha\aspnum\faauto\ls4\adjustright\rin0\lin1080\itap0 {
+\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Fund 7 proposals}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls4\ilvl1\adjustright\rin0\lin1800\itap0 {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Admin team drafts and hands off to CC for current Fund}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Teams of CC should be responsible fo
+r their category proposal going forward}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}\pard \ql \fi-360\li1080\ri0\sl360\slmult1\widctlpar\tx360\tx1080\aspalpha\aspnum\faauto\ls4\adjustright\rin0\lin1080\itap0 {
+\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Meet with your mentors}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 
+[Action Item] process needs to be documented (confluence) and tracked (trello/jira/other)}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Keep focus and problem sensing on topic (related to catalyst)}{
+\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Harris}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Raymond}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls4\ilvl1\adjustright\rin0\lin1800\itap0 {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Get SPOs more involved (CAs)}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}\pard \ql \fi-360\li1080\ri0\sl360\slmult1\widctlpar\tx360\tx1080\aspalpha\aspnum\faauto\ls4\adjustright\rin0\lin1080\itap0 {
+\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Tool Makers}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls4\ilvl1\adjustright\rin0\lin1800\itap0 {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Preparing sense making & miro board (related to Catalyst Process)}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 
+Gather feedback about Catalyst Circle v2 and prepare proposals for Catalyst Circle v3}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9679\'3f}\tab}}\pard \ql \fi-360\li1080\ri0\sl360\slmult1\widctlpar\tx360\tx1080\aspalpha\aspnum\faauto\ls4\adjustright\rin0\lin1080\itap0 {
+\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Matthias:}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}\pard \ql \fi-360\li1800\ri0\sl360\slmult1\widctlpar
+\tx1080\tx1800\aspalpha\aspnum\faauto\ls4\ilvl1\adjustright\rin0\lin1800\itap0 {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Get input from Cardano Foundation leadership}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Include Ambassadors Guild}{
+\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Rely on Felix and Victor for mentorship}{
+\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par {\listtext\pard\plain\f1\fs22\cf1\lang1033\langfe1033\langnp1033\langfenp1033 \loch\af1\dbch\af0\hich\f1 {\uc1\u9675\'3f}\tab}}{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Explore collaboration opportunities with other groups}{
+\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par 
+\par }\pard\plain \s1\ql \li0\ri0\sb400\sa120\sl360\slmult1\keep\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \b\f1\fs28\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {
+\fs26\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 {\*\bkmkstart h_d1b6qu7vqzgd}{\*\bkmkend h_d1b6qu7vqzgd}Meeting feedback & buffer time (10 min)}{\fs26\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard\plain \ql \li0\ri0\sl276\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs22\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 
+(01:50) Fill out feedback form about the meeting productivity - 5 min}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 (01:55) Buffer time / Open dialogue - All - 5 min}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 (02:00) End}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard\plain \s3\ql \li0\ri0\sb320\sa80\sl360\slmult1\keep\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0 \f1\fs22\cf17\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {
+\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 {\*\bkmkstart h_4ch6sdeeka5z}{\*\bkmkend h_4ch6sdeeka5z}Feedback Form Link: }{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 
+HYPERLINK "https://forms.gle/Jp8UXoqP4ggFijjS8"}{\lang1033\langfe2057\langnp1033\insrsid7038293 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b48000000680074007400700073003a002f002f0066006f0072006d0073002e0067006c0065002f004a0070003800550058006f0071005000340067006700460069006a006a0053003800000000}}}{\fldrslt {
+\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 https}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "https://forms.gle/Jp8UXoqP4ggFijjS8"}{\lang1033\langfe2057\langnp1033\insrsid7038293 
+{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b48000000680074007400700073003a002f002f0066006f0072006d0073002e0067006c0065002f004a0070003800550058006f0071005000340067006700460069006a006a0053003800000000}}
+}{\fldrslt {\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 ://}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "https://forms.gle/Jp8UXoqP4ggFijjS8"}{
+\lang1033\langfe2057\langnp1033\insrsid7038293 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b48000000680074007400700073003a002f002f0066006f0072006d0073002e0067006c0065002f004a0070003800550058006f0071005000340067006700460069006a006a0053003800000000}}}{\fldrslt {
+\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 forms}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "https://forms.gle/Jp8UXoqP4ggFijjS8"}{\lang1033\langfe2057\langnp1033\insrsid7038293 
+{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b48000000680074007400700073003a002f002f0066006f0072006d0073002e0067006c0065002f004a0070003800550058006f0071005000340067006700460069006a006a0053003800000000}}
+}{\fldrslt {\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 .}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "https://forms.gle/Jp8UXoqP4ggFijjS8"}{
+\lang1033\langfe2057\langnp1033\insrsid7038293 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b48000000680074007400700073003a002f002f0066006f0072006d0073002e0067006c0065002f004a0070003800550058006f0071005000340067006700460069006a006a0053003800000000}}}{\fldrslt {
+\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 gle}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "https://forms.gle/Jp8UXoqP4ggFijjS8"}{\lang1033\langfe2057\langnp1033\insrsid7038293 
+{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b48000000680074007400700073003a002f002f0066006f0072006d0073002e0067006c0065002f004a0070003800550058006f0071005000340067006700460069006a006a0053003800000000}}
+}{\fldrslt {\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 /}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "https://forms.gle/Jp8UXoqP4ggFijjS8"}{
+\lang1033\langfe2057\langnp1033\insrsid7038293 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b48000000680074007400700073003a002f002f0066006f0072006d0073002e0067006c0065002f004a0070003800550058006f0071005000340067006700460069006a006a0053003800000000}}}{\fldrslt {
+\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 Jp}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "https://forms.gle/Jp8UXoqP4ggFijjS8"}{\lang1033\langfe2057\langnp1033\insrsid7038293 
+{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b48000000680074007400700073003a002f002f0066006f0072006d0073002e0067006c0065002f004a0070003800550058006f0071005000340067006700460069006a006a0053003800000000}}
+}{\fldrslt {\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 8}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "https://forms.gle/Jp8UXoqP4ggFijjS8"}{
+\lang1033\langfe2057\langnp1033\insrsid7038293 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b48000000680074007400700073003a002f002f0066006f0072006d0073002e0067006c0065002f004a0070003800550058006f0071005000340067006700460069006a006a0053003800000000}}}{\fldrslt {
+\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 UXoqP}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "https://forms.gle/Jp8UXoqP4ggFijjS8"}{\lang1033\langfe2057\langnp1033\insrsid7038293 
+{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b48000000680074007400700073003a002f002f0066006f0072006d0073002e0067006c0065002f004a0070003800550058006f0071005000340067006700460069006a006a0053003800000000}}
+}{\fldrslt {\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 4}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "https://forms.gle/Jp8UXoqP4ggFijjS8"}{
+\lang1033\langfe2057\langnp1033\insrsid7038293 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b48000000680074007400700073003a002f002f0066006f0072006d0073002e0067006c0065002f004a0070003800550058006f0071005000340067006700460069006a006a0053003800000000}}}{\fldrslt {
+\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 ggFijjS}}}{\field{\*\fldinst {\lang1033\langfe1033\langnp1033\langfenp1033\insrsid10976062 HYPERLINK "https://forms.gle/Jp8UXoqP4ggFijjS8"}{\lang1033\langfe2057\langnp1033\insrsid7038293 
+{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b48000000680074007400700073003a002f002f0066006f0072006d0073002e0067006c0065002f004a0070003800550058006f0071005000340067006700460069006a006a0053003800000000}}
+}{\fldrslt {\ul\cf19\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 8}}}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }{\lang1033\langfe1033\langnp1033\langfenp1033\insrsid4800463 {\*\bkmkstart h_yosm84dngcl8}{\*\bkmkend h_yosm84dngcl8}References}{\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard\plain \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs22\cf1\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\b\ul\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }\pard \ql \li0\ri0\sl276\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\lang1033\langfe2057\langnp1033\insrsid10976062 
+\par }}

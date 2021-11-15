@@ -193,8 +193,10 @@ Each CCv2 member in turn outlines their initial ideas for next 30 days.
 
 ## Appendix
 
-Full verbatim transcript of this meeting
+### Full verbatim transcript of this meeting
 
+{% file src="../.gitbook/assets/Verbatim transcript, corrected, meeting 1, 11th Nov.doc" %}
 
+### Agenda and minutes from Admin team
 
-Agenda and minutes from Admin team
+{% file src="../.gitbook/assets/Admin team's minutes and notes, meeting 1, 11th Nov (1).doc" %}
