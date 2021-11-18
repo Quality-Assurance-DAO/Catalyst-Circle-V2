@@ -4,6 +4,10 @@
 Catalyst Circle breakout room, After Town Hall, Weds 17th November 2021
 {% endembed %}
 
+## Present
+
+6 members of Catalyst Circle were present. Community members dropped in and out, but in total total 6 were present.
+
 ## Welcome and Intro
 
 **(0:11) **Introductions to the members of Circle version 2
