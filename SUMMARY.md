@@ -8,7 +8,7 @@
 
 ***
 
-* [Recordings](recordings.md)
+* [Governance Day Recordings](governance-day-recordings.md)
 * [Election Process](election-process.md)
 * [Nominations](nominations.md)
 
