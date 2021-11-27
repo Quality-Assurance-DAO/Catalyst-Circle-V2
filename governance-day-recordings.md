@@ -7,3 +7,7 @@
 ## General ADA Holder Room & Fireside Chat Across the Chains
 
 {% embed url="https://youtu.be/VPRHd7O85lY" %}
+
+## Funded Proposers election
+
+{% embed url="https://youtu.be/e-PDA784mLw" %}
