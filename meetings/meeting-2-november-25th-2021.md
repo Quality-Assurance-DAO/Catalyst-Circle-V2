@@ -143,7 +143,7 @@ Details of these proposals to be discussed; but basically, they aim to ensure:
 * **Allison (1:05:09)** Doesn’t this duplicate things that are already happening as initiatives from within the community? **Harris (1:05:34)** The intention is not to duplicate; maybe we can align the two.
 * **Allison (1:06:26)** Is the group elected? **Harris (1:06:37)** To be decided.
 * **Allison (1:07:08)** Doesn’t it create bureaucracy, rather than using what has emerged organically from the community?
-* **Nori (1:07:59)** Could Stephen comment from [QA-DAO](https://quality-assurance-dao.github.io)?
+* **Nori (1:07:59)** Could Stephen comment from the point of view of [QA-DAO](https://quality-assurance-dao.github.io)?
 * **Stephen (1:08:09)** Need to make distinction between Cardano improvement process, and audit/oversight. Need to bring together people in the community already working on oversight: the Audit Circle, and the Auditability Challenge Team. Also, is it about oversight of Catalyst only, or Cardano/Voltaire? **Harris (1:09:39)** It is more about auditability; on that, we should align with existing initiatives. It’s also about accountability for the governance process itself; that would apply to Catalyst, Voltaire and Cardano.
 * **Allison (1:12:05)** Let’s ensure we don’t end up with competing proposals for Fund 7.
 * **Nori (1:13:35)**  On “improvements”, I like the idea of reflective practice and retrospectives. Historically the Admin team has managed that – maybe simpler to keep it that way, and this new body to focus on oversight and accountability.
