@@ -124,9 +124,11 @@ The "CC stand-up" - each person says:
 
 ### **Harris Warren – proposals to support the above (59:11)**
 
-**(59:11)** Dor and Harris drafted “stub” proposals based on the above, to support the new Catalyst Council, with additional scope; ntroduce a second new body, called “Cardano Governance, Oversight and Improvements”, to provide oversight of CC and Catalyst Expert Council
+**(59:11)** Dor and Harris drafted “stub” proposals based on the above, to:
 
-* Create a community-funded information hub
+* Support the new Catalyst Council, with additional scope&#x20;
+* Introduce a second new body, called “Cardano Governance, Oversight and Improvements”, to provide oversight of CC and Catalyst Expert Council
+* Create a community-funded information hub.
 
 Details of these proposals to be discussed; but basically, they aim to ensure:
 
@@ -160,10 +162,10 @@ Nori (1:16:04) – The current funded proposal is [Power Up the Catalyst Circle]
 
 * Catalyst Circle Admin Scope Extension
 * Community funded governance oversight and improvements
-* Community funded information hub
-* Audit circle
-* Catalyst Coordinator Hub
-* Allison’s on funding each outgoing CC to mentor the following CC
+* [Community funded information hub](https://cardano.ideascale.com/a/dtd/Community-Information-Hub/383525-48088)
+* [Audit circle](https://cardano.ideascale.com/a/dtd/Catalyst-Audit-Circle/381354-48088)
+* [Catalyst Coordinator Hub](https://cardano.ideascale.com/a/dtd/Catalyst-Coordinator-Hub/382324-48088)
+* [CC mentorship](https://cardano.ideascale.com/a/dtd/Catalyst-Circle-Mentorship/385019-48088)
 * Distributed Governance F8 challenge setting
 
 ### **Should CC members submit proposals as individuals, or as CCv2?**
@@ -188,7 +190,7 @@ Concern raised over CC members’ legitimacy and engagement with the communities
 
 <mark style="color:red;">**ACTION ITEM:**</mark> Admin team to create a list of all CC members, their contact details, and their preferred comms channels.
 
-## **6) Alternatives to Trello board (1:41:39)**
+## **6) Alternative to Trello board (1:41:39)**
 
 Stephen proposes replacing Trello with a GitHub Project Board: it functions the same way but is open-source.
 
@@ -200,7 +202,7 @@ Stephen will give basic training to CC members if needed.
 
 ## **7) Expanding the Circle (1:46:53)**
 
-Discussion focuses on whether Emurgo should be invited to join CC.
+Discussion focuses on whether others, including Emurgo, should be invited to join CC.
 
 **1:51:26** – who controls the Cardano treasury?
 
@@ -212,7 +214,7 @@ Discussion focuses on whether Emurgo should be invited to join CC.
 
 Idea for CC members to find out what tools are being used by the group they represent.
 
-<mark style="color:red;">**ACTION ITEM:**</mark> Tevo to tag all CC members in Slack; all to agree or disagree whether CC should do this and whether the info would be useful.
+<mark style="color:red;">**ACTION ITEM:**</mark> In Slack, all to comment whether this would be useful.
 
 ## **9) Meeting feedback (1:56:31)**
 
