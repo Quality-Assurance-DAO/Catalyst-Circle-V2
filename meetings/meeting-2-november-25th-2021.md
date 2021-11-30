@@ -230,6 +230,10 @@ Meeting ends 2:01:15
 
 ## **Appendix**
 
+### **Presentation slides**
+
+{% embed url="https://docs.google.com/presentation/d/1Bz-NXzDx0ZnJUtXPthUH2dak-PG1Xc9RM-LfHWki_BY/edit?usp=sharing" %}
+
 ### Full intelligent-verbatim transcript of this meeting
 
 coming soon
