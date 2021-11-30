@@ -225,3 +225,15 @@ Meeting ends 2:01:15
 **The most common words used in this meeting were:**
 
 ![](<../.gitbook/assets/frequentword meeting 2, 25th nov.JPG>)
+
+****
+
+## **Appendix**
+
+### Full intelligent-verbatim transcript of this meeting
+
+coming soon
+
+### Agenda for this meeting
+
+{% file src="../.gitbook/assets/Agenda, CCv2 Meeting #2 - Nov. 25, 2021.rtf" %}
