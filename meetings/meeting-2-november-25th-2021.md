@@ -234,9 +234,9 @@ Meeting ends 2:01:15
 
 {% embed url="https://docs.google.com/presentation/d/1Bz-NXzDx0ZnJUtXPthUH2dak-PG1Xc9RM-LfHWki_BY/edit?usp=sharing" %}
 
-### Full intelligent-verbatim transcript of this meeting
+### Intelligent-verbatim transcript of this meeting
 
-coming soon
+{% file src="../.gitbook/assets/25 Nov QA-DAO Verbatim transcript, corrected, meeting 2, 25th Nov.doc" %}
 
 ### Agenda for this meeting
 
