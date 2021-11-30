@@ -10,13 +10,13 @@ Recording ofCCv2 meeting #2, 25th Nov 2021
 
 ### Abbreviations used
 
-CC – Catalyst Circle
+CA – Community Advisor
 
-IOG – Input/Output Global
+CC – Catalyst Circle
 
 CF – Cardano Foundation
 
-CA – Community Advisor
+IOG – Input/Output Global
 
 SPO – stakepool operator
 
