@@ -5,7 +5,7 @@ description: Catalyst Circle Version 2
 # Catalyst Circle V2
 
 {% hint style="info" %}
-This GitBook documents Circle V2. For Circle V1 please refer to this GitBook.
+This GitBook documents Circle V2. For Circle V1 please refer [to this GitBook.](https://catalyst-swarm.gitbook.io/catalyst-circle/)
 {% endhint %}
 
 ## Overview
