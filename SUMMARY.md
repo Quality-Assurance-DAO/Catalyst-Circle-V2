@@ -16,6 +16,7 @@
 
 * [Meeting 1 - November 11th, 2021](meetings/meeting-1-november-11th-2021.md)
 * [Meeting 2 - November 25th, 2021](meetings/meeting-2-november-25th-2021.md)
+* [Meeting 3 - December 9th, 2021](meetings/meeting-3-december-9th-2021.md)
 
 ## PUBLIC ENGAGEMENT SESSIONS
 
