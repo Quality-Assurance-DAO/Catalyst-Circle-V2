@@ -8,7 +8,7 @@
 
 API – Application Programming Interface (a software intermediary that allows two applications to talk to each other)
 
-ATH – After Town Hall breakout session,(Wednesdays on Zoom)
+ATH – After Town Hall (breakout sessions that take place after the Town Hall on Wednesdays on Zoom)
 
 CA – Community Advisor
 
