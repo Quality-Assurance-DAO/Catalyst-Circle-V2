@@ -136,12 +136,23 @@ The "CC Stand-Up" - each person says
 
 **Key points:**
 
-* Kenric (1:12:38) Influence of large wallets is problematic
-* Stephen (1:13:13) There’s a perception in the community that they \*do\* vote; is this justified?
-* Harris (1:13:49) There is nothing official to prevent it – anyone can vote – but IOG are researching on protecting against influence of whales.
-* Kenric (1:16:52) Voting power is not just about amount of ADA; it’s about how likely it is that your vote will be decisive in deciding “yes” or “no” on a particular proposal. We could develop processes to avoid that centralisation, but we are not there yet.
-* Allison (1:18:32) If Cardano and IOG do vote, there should be rigorous and transparent processes about it, same as for how they stake their ADA
-* Harris (1:20:21) I don’t believe the Treasury is doing any type of voting. But eventually that decision should be made by the proposed bicameral governance structure.
+* **Kenric (1:12:38)** Influence of large wallets is problematic
+* **Stephen (1:13:13)** There’s a perception in the community that they \*do\* vote; is this justified?
+* **Harris (1:13:49)** There is nothing official to prevent it – anyone can vote – but IOG are researching on protecting against influence of whales.
+* **Kenric (1:16:52)** Voting power is not just about amount of ADA; it’s about how likely it is that your vote will be decisive in deciding “yes” or “no” on a particular proposal; and that increases quadratically. We could develop processes to avoid that centralisation, but we are not there yet.
+* **Allison (1:18:32)** If Cardano and IOG do vote, there should be rigorous and transparent processes about it, same as for how they stake their ADA
+* **Harris (1:20:21)** I don’t believe the Treasury is doing any type of voting. But eventually that decision should be made by the proposed bicameral governance structure.
+
+<mark style="color:red;">**ACTION ITEM:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> All CC members to formulate a position for a future discussion on this, with the aim of making recommendations as a Circle.
+
+### **Discussion of Circle bicameral model (1:23:43)**
+
+* Allison (1:24:52) Clarification on the proposed audit body – is it elected? (1:29:10) Is this a fleshing-out of the Governance Oversight body proposed by Harris last week; and what happens if it doesn’t get funded?
+* Stephen (1:25:43)  In the [Community Governance Oversight proposal](https://cardano.ideascale.com/a/dtd/Community-Governance-Oversight/383517-48088) the proposed team is from the Catalyst “audit community” – those in Catalyst with relevant knowledge and skills. There is also a separate [Audit Circle proposal](https://cardano.ideascale.com/a/dtd/Catalyst-Audit-Circle/381354-48088), for audit of the Funded Proposal process specifically. (1:29:33) If it doesn’t get funded then the sustainability of Catalyst audit is at risk.
+* Kenric (1:30:56) I feel the proposed Technical Council should be appointed rather than elected – so what should the appointment process be?
+* Harris (1:33:14) We cannot transition decision making away from IOG too quickly, but we do want to do it quickly.
+* Raymond (1:36: 44) I am open to the bicameral model, but we need to keep it as simple and elegant as possible.
+* Stephen (1:38:16) We could use delegated voting \[i.e. _ADA-holders vote for a representative, and the representative selects the Technical Council_].
 
 ## 4) Feedback and close
 
