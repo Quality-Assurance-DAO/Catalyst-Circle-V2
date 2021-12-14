@@ -1,6 +1,6 @@
 # Meeting 3 - December 9th, 2021
 
-## Meeting recording
+## ACTION ITEM (1:39:50) : CC members to add their name next to agenda items they add in futureMeeting recording
 
 ## Minutes of Catalyst Circle V2 Meeting #3
 
@@ -147,12 +147,14 @@ The "CC Stand-Up" - each person says
 
 ### **Discussion of Circle bicameral model (1:23:43)**
 
-* Allison (1:24:52) Clarification on the proposed audit body – is it elected? (1:29:10) Is this a fleshing-out of the Governance Oversight body proposed by Harris last week; and what happens if it doesn’t get funded?
-* Stephen (1:25:43)  In the [Community Governance Oversight proposal](https://cardano.ideascale.com/a/dtd/Community-Governance-Oversight/383517-48088) the proposed team is from the Catalyst “audit community” – those in Catalyst with relevant knowledge and skills. There is also a separate [Audit Circle proposal](https://cardano.ideascale.com/a/dtd/Catalyst-Audit-Circle/381354-48088), for audit of the Funded Proposal process specifically. (1:29:33) If it doesn’t get funded then the sustainability of Catalyst audit is at risk.
-* Kenric (1:30:56) I feel the proposed Technical Council should be appointed rather than elected – so what should the appointment process be?
-* Harris (1:33:14) We cannot transition decision making away from IOG too quickly, but we do want to do it quickly.
-* Raymond (1:36: 44) I am open to the bicameral model, but we need to keep it as simple and elegant as possible.
-* Stephen (1:38:16) We could use delegated voting \[i.e. _ADA-holders vote for a representative, and the representative selects the Technical Council_].
+* **Allison (1:24:52)** Clarification on the proposed audit body – is it elected? **(1:29:10)** Is this a fleshing-out of the Governance Oversight body proposed by Harris last week; and what happens if it doesn’t get funded?
+* **Stephen (1:25:43)**  In the [Community Governance Oversight proposal](https://cardano.ideascale.com/a/dtd/Community-Governance-Oversight/383517-48088) the proposed team is from the Catalyst “audit community” – those in Catalyst with relevant knowledge and skills. There is also a separate [Audit Circle proposal](https://cardano.ideascale.com/a/dtd/Catalyst-Audit-Circle/381354-48088), for audit of the Funded Proposal process specifically. **(1:29:33)** If it doesn’t get funded then the sustainability of Catalyst audit is at risk.
+* **Kenric (1:30:56)** I feel the proposed Technical Council should be appointed rather than elected – what should the appointment process be?
+* **Harris (1:33:14)** We cannot transition decision-making away from IOG _**too**_ quickly, but we do want to do it quickly.
+* **Raymond (1:36: 44)** I am open to the bicameral model, but we need to keep it as simple and elegant as possible.
+* **Stephen (1:38:16)** We could use delegated voting \[i.e. _ADA-holders vote for a representative, and the representative selects the Technical Council_].
+
+<mark style="color:red;">**ACTION ITEM**</mark>** (1:39:50):** For clarity, CC members to add their name next to agenda items they add in future
 
 ## 4) Feedback and close
 
