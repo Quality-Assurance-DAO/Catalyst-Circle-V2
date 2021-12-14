@@ -114,23 +114,34 @@ The "CC Stand-Up" - each person says
 
 ### **Criteria for which proposals should be Catalyst-sponsored (42:08)**
 
-* Allison (42:16) How do we promote CC proposals effectively; and how do we ensure CC only promotes CC-related proposals and doesn’t become a platform for our individual interest? Process for deciding which proposals are “CC-sponsored”?
-* Tevo  (43:55) Should we sponsor proposals that emerge from the community? I developed a chain vote application to enable us to vote on which proposals are CC-sponsored.
-* Nori (46:46) Historically, proposals emerged from problem-sensing – gave more visibility and legitimacy
-* Stephen (47:47) CC should only support CC-specific proposals, i.e. related to our infrastructure or emerging from problem-sensing
-* Kenric (48:43) Distinction between funding for operational expenses of CC, and funding that is specific to an initiative. How is CC currently funded?
-* Nori (49:34) Via a Fund 6 proposal; but CC is currently running at a deficit, is costing more than that proposal.
-* Kenric (51:07) Should CC operational expenses, which are not optional, be funded outside of the proposal process, as rewards to CAs and voters are?
-* Matthias (55:44) Should \*Catalyst\* Circle be outside the \*Catalyst\* funding process? (57:38) CCv2 is too early to make CC’s existence set in stone.
-* Kenric (59:01) If we put it to a vote to compensate CC members via an award, like CAs, then we should also put it to the vote whether there should be a Circle at all.
-* Allison (1:00:58) CC members could be elected via IdeaScale; the Challenge Setting budget would be the budget to compensate CC members, and each “proposal” would be each candidate’s nomination.
-* Raymond (1:02:38) On the proposals currently in fund 7, we should meet separately to discuss them specifically.
-* Tevo (1:03:53) We should use a voting system to cover proposals from CC and proposals from the community that improve the Catalyst system itself.
-* Harris (1:05:32) We need CC, or some kind of group that represents the Catalyst community, to enable transfer of governance from IOG.
-* Nori (1:06:43) We should discuss the Catalyst parameters; and as Raymond suggested, we should meet separately tpo discuss the fund 7 proposals and develop criteria for how we select which proposals should be “CC-sponsored”.
-* Harris (1:08:15) We should return to a focus in CC meetings on problem-sensing and the Trello board.
+* **Allison (42:16)** How do we promote CC proposals effectively; and how do we ensure CC only promotes CC-related proposals and doesn’t become a platform for our individual interest? Process for deciding which proposals are “CC-sponsored”?
+* **Tevo  (43:55)** Should we sponsor proposals that emerge from the community? I developed a chain vote application to enable us to vote on which proposals are CC-sponsored.
+* **Nori (46:46)** Historically, proposals emerged from problem-sensing – this gave more visibility and legitimacy.
+* **Stephen (47:47)** CC should only support CC-specific proposals, i.e. related to our infrastructure or emerging from problem-sensing.
+* **Kenric (48:43)** Distinction between funding for operational expenses of CC, and funding that is specific to an initiative. How is CC currently funded?
+* **Nori (49:34)**  CCv2 is funded via a Fund 6 proposal; but is currently running at a deficit, is costing more than that proposal's budget.
+* **Kenric (51:07)** CC operational expenses are essential - should they be funded outside of the proposal process, the same way rewards to CAs and voters are?
+* **Matthias (55:44)** No - \*Catalyst\* Circle should not be taken outside the \*Catalyst\* funding process. **(57:38)** CCv2 is too early to make CC’s existence set in stone.
+* **Kenric (59:01)** If we put it to a vote to compensate CC members via an award, like CAs, then we should also put it to the vote whether there should be a Circle at all.
+* **Allison (1:00:58)** CC members could be elected via IdeaScale; the Challenge Setting budget would be the budget to compensate CC members, and each “proposal” would be each candidate’s nomination.
+* **Raymond (1:02:38)** For proposals currently in fund 7, we should meet separately to discuss them specifically.
+* **Tevo (1:03:53)** We should use a voting system to cover proposals from CC and proposals from the community that improve the Catalyst system itself.
+* **Harris (1:05:32)** We need CC, or some kind of group that represents the Catalyst community, to enable transfer of governance from IOG.
+* **Nori (1:06:43)** We should discuss the Catalyst parameters; and as Raymond suggested, we should meet separately to discuss the fund 7 proposals and develop criteria for how we select which proposals should be “CC-sponsored”.
+* **Harris (1:08:15)** We should return to a focus in these CC meetings on problem-sensing and the Trello board.
 
+<mark style="color:red;">**ACTION ITEM:**</mark> Allison, with support from Tevo, Raymond, Harris and Stephen, to set up meeting to discuss criteria for what should be a CC-sponsored proposal.
 
+### **Should IOG, Cardano Foundation and Emurgo vote in Catalyst? (1:10:52)**
+
+**Key points:**
+
+* Kenric (1:12:38) Influence of large wallets is problematic
+* Stephen (1:13:13) There’s a perception in the community that they \*do\* vote; is this justified?
+* Harris (1:13:49) There is nothing official to prevent it – anyone can vote – but IOG are researching on protecting against influence of whales.
+* Kenric (1:16:52) Voting power is not just about amount of ADA; it’s about how likely it is that your vote will be decisive in deciding “yes” or “no” on a particular proposal. We could develop processes to avoid that centralisation, but we are not there yet.
+* Allison (1:18:32) If Cardano and IOG do vote, there should be rigorous and transparent processes about it, same as for how they stake their ADA
+* Harris (1:20:21) I don’t believe the Treasury is doing any type of voting. But eventually that decision should be made by the proposed bicameral governance structure.
 
 ## 4) Feedback and close
 
