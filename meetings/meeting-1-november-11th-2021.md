@@ -56,7 +56,7 @@ Dor (26%), Nori (21%), Tevo (7%), Stephen (7%), Victor (6%), Lauris (5%), Felix 
 
 **Matthias  (8:25)** My name is Matthias Sieber, preferred pronouns he/him. I'm the representative for the Cardano Foundation, but I can only bring myself to the Circle today, as I have limited information on the Foundation's expectations regarding this endeavour, at least at this time.
 
-**Tevo  (8:53)** I’m Tevo, from Estonia. I was funded in Fund 1, and been actively participating since then. I represent Toolmakers and Maintainers in CCv2.
+**Tevo  (8:53)** I’m Tevo, from Estonia. I joined in Fund 1, and been actively participating since then. I represent Toolmakers and Maintainers in CCv2.
 
 ## 2) CCv1 Induction (11:25)
 
