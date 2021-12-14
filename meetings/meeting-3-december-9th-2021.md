@@ -114,6 +114,10 @@ Meeting ends 2:01:17
 
 ## Key words from this meeting
 
+The most common words used in this meeting were:
+
+![](<../.gitbook/assets/frequentword mtg 3 9th dec.JPG>)
+
 ## Appendix
 
 ### Intelligent-verbatim transcript of this meeting
