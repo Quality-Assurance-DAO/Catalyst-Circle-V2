@@ -158,14 +158,22 @@ The "CC Stand-Up" - each person says
 
 ### **Concerns about increased work for CC admin team (1:40:04)**
 
-* Stephen (1:40:12) Concerns were raised at Admin team meeting on Friday that IOG had not discussed the Admin Scope Expansion proposal enough with the Admin team; workload expanding too fast; community money being used to support an IOG directed project; Admin team don;t want to become IOG employees.
-* JP (1:41:54) We support the transition to community governance but we need time to develop our supporting structures. Also we are not being paid: it’s not sustainable. Also being heard - we wanted to raise concerns, but found the decision had already been made without us. We would like to be included.
-* Harris (1:44:32) We can pace this. And we intend to find ways to compensate the Admin team.
-* Nori (1:46:32) The Admin team have also set up a stakepool as a way to try and make things more sustainable; ticker is [Admin](https://pooltool.io/pool/ac66c8efb8edba3991576235e421ef0524ab351a22598de520de7b16/epochs)
-* Kenric (1:47:51) We should be clear, when we define new roles, how they are funded
-* Stephen (1:48:32) There is a legacy of volunteerism in Catalyst, for good reasons, but we are moving into a new phase where that is not sustainable.
-* Nori (1:49:09) Need to find mechanisms for communication and joint decision making, especially on subjects that affect us directly. (1:49:33) Also – mix up with time zones, we missed submission deadline for CC Admin Team’s Fund 7 proposal; so what was submitted is an earlier version that does not include budget for the additional CTC work. So it’s $10k short.
-* Stephen (1:51:23) Possibly we could use a rapid funding mechanism to cover it.
+* **Stephen (1:40:12)** Concerns were raised at Admin team meeting on Friday that IOG had not discussed the Admin Team Scope Expansion proposal enough with the Admin team; workload expanding too fast; community money being used to support an IOG directed project; Admin team don;t want to become IOG employees.
+* **JP (1:41:54)** We support the transition to community governance but we need time to develop our supporting structures. Also we are not being paid: it’s not sustainable. Also being heard - we wanted to raise concerns, but found the decision had already been made without us. We would like to be included.
+* **Harris (1:44:32)** We can pace the changes. And we intend to find ways to compensate the Admin team.
+* **Nori (1:46:32)** The Admin team have also set up a stakepool as a way to try and make things more sustainable; the ticker is [Admin](https://pooltool.io/pool/ac66c8efb8edba3991576235e421ef0524ab351a22598de520de7b16/epochs)
+* **Kenric (1:47:51)** When we define new roles, we should be clear how they are funded.
+* **Stephen (1:48:32)** There is a legacy of volunteerism in Catalyst, for good reasons, but we are moving into a new phase where that is not sustainable.
+* **Nori (1:49:09)** Need to find mechanisms for communication and joint decision making, especially on subjects that affect us directly. **(1:49:33)** Also – a mix-up with time zones, we missed submission deadline for CC Admin Team’s Fund 7 proposal; so what was submitted is an earlier version that does not include budget for the additional CTC work. So it’s $10k short.
+* **Stephen (1:51:23)** Possibly we could use a rapid funding mechanism to cover the shortfall.
+
+### **GitHub tasks (1:52:52)**
+
+* **Nori (1:51:59)** Admin team will resolve issues around websites, email accounts etc, probably next week.
+* **Tevo (1:53:04)** Does everyone have access to the GitHub repository which has the copy of the Trello board?
+* **Stephen (1:55:15)** GitHub board is set up to replace Trello. I agree with Harris earlier, that we should return to focusing on problem-sensing via this board in CC meetings. Put “Prioritise Problems” first on the agenda, and focus on sensing problems from the community.
+
+<mark style="color:red;">**ACTION ITEM:**</mark> Stephen to add CC members to GitHub board, and allocate issues to people.
 
 ## 4) Feedback and close
 
