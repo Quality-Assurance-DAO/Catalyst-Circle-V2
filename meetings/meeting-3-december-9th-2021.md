@@ -82,7 +82,7 @@ The "CC Stand-Up" - each person says
 
 **Matthias (19:38)**
 
-* Met with [Frederik Gregaard](https://cardanofoundation.org/en/news/cardano-foundation-appoints-frederik-gregaard-as-ceo-and-strengthens-its-executive-leadership/), CEO of Cardano Foundation; ATH with Ambassadors’ Guild; Fund 8 challenge submissions on Open-Source Developer Ecosystem and  general Developer Ecosystem; decided to set the challenge budget for the Open-Source version higher ($2M) than the general ($1M) to reflect the commitment to open-source.
+* Met with [Frederik Gregaard](https://cardanofoundation.org/en/news/cardano-foundation-appoints-frederik-gregaard-as-ceo-and-strengthens-its-executive-leadership/), CEO of Cardano Foundation; ATH with Ambassadors’ Guild; Fund 8 challenge submissions on [Open-Source Development Ecosystem](https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088) and general [Developer Ecosystem](https://cardano.ideascale.com/a/dtd/Developer-Ecosystem/384822-48088); decided to set the challenge budget for the Open-Source version higher ($1.2M) than the general ($1M) to reflect the commitment to open-source.
 * Working with Ambassadors’ Guild to redefine ambassadorship; continue dialogue with Catalyst community.
 * No blocks.
 
