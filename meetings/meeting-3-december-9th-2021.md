@@ -32,7 +32,7 @@ SPO – stakepool operator
 
 VCA – Veteran Community Advisor
 
-Voltaire – the next phase of Catalyst governance
+Voltaire – [the final stage of the Cardano roadmap](https://roadmap.cardano.org/en/voltaire/)
 
 ### Present (in order of first speaking)
 
@@ -96,7 +96,7 @@ The "CC Stand-Up" - each person says
 
 **Harris (30:20)**
 
-* Working on Voltaire roadmap and mechanisms; contributed to proposal writing on this but I could have done more; worked on governance APIs and governance SDK that will help teams both inside and outside IO to build tools e.g. for voting mechanisms
+* Working on [Voltaire roadmap](https://roadmap.cardano.org/en/voltaire/) and mechanisms; contributed to proposal writing on this but I could have done more; worked on governance APIs and governance SDK that will help teams both inside and outside IO to build tools e.g. for voting mechanisms
 * Want to discuss the governance parameters pilot in this meeting; would have been better if this meeting had been before proposal deadline so CC could have agreed proposals before they went in; also want to share more on the data from feedback; and support the definition of Catalyst Technical Council
 * No blocks.
 
