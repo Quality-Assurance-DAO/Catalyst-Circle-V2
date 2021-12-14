@@ -1,6 +1,6 @@
 # Meeting 3 - December 9th, 2021
 
-## ACTION ITEM (1:39:50) : CC members to add their name next to agenda items they add in futureMeeting recording
+## Meeting recording
 
 ## Minutes of Catalyst Circle V2 Meeting #3
 
@@ -154,7 +154,18 @@ The "CC Stand-Up" - each person says
 * **Raymond (1:36: 44)** I am open to the bicameral model, but we need to keep it as simple and elegant as possible.
 * **Stephen (1:38:16)** We could use delegated voting \[i.e. _ADA-holders vote for a representative, and the representative selects the Technical Council_].
 
-<mark style="color:red;">**ACTION ITEM**</mark>** (1:39:50):** For clarity, CC members to add their name next to agenda items they add in future
+<mark style="color:red;">**ACTION ITEM**</mark>** (1:39:50):** For clarity, CC members to add their name next to agenda items they add to the agenda in future.
+
+### **Concerns about increased work for CC admin team (1:40:04)**
+
+* Stephen (1:40:12) Concerns were raised at Admin team meeting on Friday that IOG had not discussed the Admin Scope Expansion proposal enough with the Admin team; workload expanding too fast; community money being used to support an IOG directed project; Admin team don;t want to become IOG employees.
+* JP (1:41:54) We support the transition to community governance but we need time to develop our supporting structures. Also we are not being paid: it’s not sustainable. Also being heard - we wanted to raise concerns, but found the decision had already been made without us. We would like to be included.
+* Harris (1:44:32) We can pace this. And we intend to find ways to compensate the Admin team.
+* Nori (1:46:32) The Admin team have also set up a stakepool as a way to try and make things more sustainable; ticker is [Admin](https://pooltool.io/pool/ac66c8efb8edba3991576235e421ef0524ab351a22598de520de7b16/epochs)
+* Kenric (1:47:51) We should be clear, when we define new roles, how they are funded
+* Stephen (1:48:32) There is a legacy of volunteerism in Catalyst, for good reasons, but we are moving into a new phase where that is not sustainable.
+* Nori (1:49:09) Need to find mechanisms for communication and joint decision making, especially on subjects that affect us directly. (1:49:33) Also – mix up with time zones, we missed submission deadline for CC Admin Team’s Fund 7 proposal; so what was submitted is an earlier version that does not include budget for the additional CTC work. So it’s $10k short.
+* Stephen (1:51:23) Possibly we could use a rapid funding mechanism to cover it.
 
 ## 4) Feedback and close
 
