@@ -4,6 +4,14 @@
 
 ## Minutes of Catalyst Circle V2 Meeting #3
 
+### Present (in order of first speaking)
+
+**Stephen Whitenstall** (representing Catalyst Coordinator, funded proposers); **Allison Fromm** (representing general ADA holders); **Nori Nishigaya** (facilitator); **Matthias Sieber** (representing Cardano Foundation); **Tevo Saks** (representing Toolmakers and Maintainers); **Kenric Nelson** (representing Community Advisors); **Harris Warren** (representing IOG); **Raymond Mata** (representing Stake Pool Operators); **JP** (secretary).
+
+### Speaker percentages
+
+Nori (18%), Harris (17%), Kenric (13%), Allison (13%), Stephen (12%), Raymond (9%), Tevo (9%), Matthias (6%), JP (3%)
+
 ### Abbreviations used / Glossary
 
 API – Application Programming Interface (a software intermediary that allows two applications to talk to each other)
@@ -33,14 +41,6 @@ SPO – stakepool operator
 VCA – Veteran Community Advisor
 
 Voltaire – [the final stage of the Cardano roadmap](https://roadmap.cardano.org/en/voltaire/)
-
-### Present (in order of first speaking)
-
-**Stephen Whitenstall** (representing Catalyst Coordinator, funded proposers); **Allison Fromm** (representing general ADA holders); **Nori Nishigaya** (facilitator); **Matthias Sieber** (representing Cardano Foundation); **Tevo Saks** (representing Toolmakers and Maintainers); **Kenric Nelson** (representing Community Advisors); **Harris Warren** (representing IOG); **Raymond Mata** (representing Stake Pool Operators); **JP** (secretary).
-
-### Speaker percentages
-
-Nori (18%), Harris (17%), Kenric (13%), Allison (13%), Stephen (12%), Raymond (9%), Tevo (9%), Matthias (6%), JP (3%)
 
 ## 1) Opening and agenda (0:00)
 
@@ -189,4 +189,8 @@ The most common words used in this meeting were:
 
 ### Intelligent-verbatim transcript of this meeting
 
+coming soon
+
 ### Agenda for this meeting
+
+{% file src="../.gitbook/assets/Agenda, CCv2 Meeting #3 - Dec 9, 2021.rtf" %}
