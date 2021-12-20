@@ -61,7 +61,7 @@ The "CC Stand-Up" - each person says
 
 **Allison (9:14)**
 
-* Proposals submission, particularly for a Voter Survey; creating a roadmap to how to create a legal entity; and working with Kenric on an [Atala PRISM](https://atalaprism.io/app) DIDs project for CAs
+* Proposals submission, particularly for a Voter Survey; creating a [roadmap to how to create a legal entity](https://cardano.ideascale.com/a/dtd/Roadmap-to-Creating-a-Legal-Entity/382258-48088); and working with Kenric on an [Atala PRISM](https://atalaprism.io/app) DIDs project for CAs
 * Office Hours – more advance notice and more time zones; working on survey data; preparing for next CC election.
 * Blocks: need email address for General ADA Voters role; website; other infrastructure. CC Admin team are fixing this; QA-DAO GitBook also functions as a CC landing page.
 
