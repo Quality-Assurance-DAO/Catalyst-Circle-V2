@@ -10,7 +10,7 @@ Recording of CCv2 meeting #4, 23rd Dec 2021
 
 ### Present (in order of first speaking)
 
-**JP** (Admin team; initially facilitator, then secretary); **Allison Fromm** (representing general ADA voters); **Matthias Sieber** (representing Cardano Foundation); **Stephen Whitenstall** (representing Catalyst Coordinator/funded proposers); **Kenric Nelson** (representing Community Advisors); **Tevo Saks** (representing Toolmakers and Maintainers); **Harris Warren** (representing IOG); **Nori Nishigaya** (facilitator).
+**JP** (initially facilitator, then secretary); **Allison Fromm** (representing general ADA voters); **Matthias Sieber** (representing Cardano Foundation); **Stephen Whitenstall** (representing Catalyst Coordinator/funded proposers); **Kenric Nelson** (representing Community Advisors); **Tevo Saks** (representing Toolmakers and Maintainers); **Harris Warren** (representing IOG); **Nori Nishigaya** (facilitator).
 
 ### Speaker percentages
 
