@@ -146,7 +146,7 @@ See [Github Prioritised Problems board](https://github.com/Catalyst-Circle/Catal
 
 ### **Selection process for Technical Council (Kenric, 1:02:20)**
 
-* Working from **** [Method for Selecting Catalyst Technical Council](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/59) card
+* RE: **** [Method for Selecting Catalyst Technical Council](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/59) card
 * Popular vote might not be appropriate. **(1:04:03)** One idea is, Technical Council could be selected by a group of 5 to 11 people selected at random from IdeaScale, like a jury.
 * **(1:06:53)** Discussion of various ideas for how to select Technical Council; IOG’s position; how to ensure the solution includes input from Catalyst community as well as IOG.
 
@@ -154,7 +154,7 @@ See [Github Prioritised Problems board](https://github.com/Catalyst-Circle/Catal
 
 ### **Continuity of Catalyst challenges (Kenric, 1:18:36)**
 
-* Working from [Improving Challenge Continuity](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/60) card. It’s good that the community is now defining all the funding challenges instead of having some set by IOG; but in fund 7 there was concern from some people that some significant challenges which had been in previous rounds, were dropped.
+* RE: [Improving Challenge Continuity](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/60) card. It’s good that the community is now defining all the funding challenges instead of having some set by IOG; but in fund 7 there was concern from some people that some significant challenges which had been in previous rounds, were dropped.
 *   Discussion of possible methods for ensuring some continuity for key challenge settings:
 
     * different thresholds for voting for new challenges;
