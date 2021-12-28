@@ -106,13 +106,13 @@ The "CC Stand-up" - each person says
 
 See [Github Prioritised Problems board](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/projects/3)
 
-**Community Advisors, Kenric (28:09)**
+### **Community Advisors, Kenric (28:09)**
 
 * Pleased to see that Prioritised Problems board  has been updated
 * Added 2 items to problem backlog ([Method for Selecting Catalyst Technical Council](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/59)  and [Improving Challenge Continuity](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/60))  which are both on the agenda later on
 * Will incorporate problems inherited from CCv1 ([reputation/merit system for CAs and VCAs ](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/57)and [CAs and vCAs rewarding system](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/53)) into ATH meeting planned for 5th  Jan, and update following that discussion.
 
-**Funded Proposers, Stephen (28:58)**
+### **Funded Proposers, Stephen (28:58)**
 
 * One problem, [Almost non existing “collaborative layer” to welcome newcomers](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/48). Work done to address it - built a [community hub](https://quality-assurance-dao.gitbook.io/catalyst-coordinator/) for Catalyst Coordinator to gather issues from funded proposers, and submitted a [fund 7 proposal](https://cardano.ideascale.com/a/dtd/Catalyst-Coordinator-Hub/382324-48088) to maintain it.
 
@@ -122,7 +122,7 @@ See [Github Prioritised Problems board](https://github.com/Catalyst-Circle/Catal
 
 **(31:55)** Discussion of how CC reps should add problems to the board; at what level of granularity (high-level vs more detailed); limiting the number of cards; [Agile](https://en.wikipedia.org/wiki/Agile\_management) and [Kanban](https://en.wikipedia.org/wiki/Kanban\_\(development\)) methodologies; the board as a tool for accountability and knowledge-sharing.;  [documentation](https://catalyst-swarm.gitbook.io/catalyst-circle/) of how the board was used in CCv1
 
-**Toolmakers and Maintainers, Tevo (48:16)**
+### **Toolmakers and Maintainers, Tevo (48:16)**
 
 * Added Toolmakers to [“collaborative layer” to welcome newcomers](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/48) problem
 * Re: [systems to track and visualize Trust and Participation](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/37) – watched Atala PRISM credentials video, and video from George Lovegrove about participation in Swarm and ATH being recorded with tokens; so will discuss with George and with IOG.
@@ -134,7 +134,7 @@ See [Github Prioritised Problems board](https://github.com/Catalyst-Circle/Catal
 
 <mark style="color:red;">**ACTION ITEM**</mark>: those interested in this card will meet separately to discus
 
-**IOG, Harris (58:09)**
+### **IOG, Harris (58:09)**
 
 * On [How do we remove IOHK from every decision made in Catalyst?](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/47) – IOG are actively moving on this, so change status to “shared with community”.
 * On [How does IOHK and Catalyst community coordinate building the developer and governance eco-system effectively?](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/51)  Need to get more background on it; problem may need to be broken down further.
@@ -144,7 +144,7 @@ See [Github Prioritised Problems board](https://github.com/Catalyst-Circle/Catal
 
 ## 4) Consent Agenda (1:02:20)
 
-**Selection process for Technical Council (Kenric, 1:02:20)**
+### **Selection process for Technical Council (Kenric, 1:02:20)**
 
 * Working from **** [Method for Selecting Catalyst Technical Council](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/59) card
 * Popular vote might not be appropriate. **(1:04:03)** One idea is, Technical Council could be selected by a group of 5 to 11 people selected at random from IdeaScale, like a jury.
@@ -152,45 +152,38 @@ See [Github Prioritised Problems board](https://github.com/Catalyst-Circle/Catal
 
 <mark style="color:red;">**ACTION ITEM**</mark>**:** This will stay as a card on the board, with IOG co-owning it, and the card will be moved through the board as normal.
 
-**Continuity of Catalyst challenges (Kenric, 1:18:36)**
+### **Continuity of Catalyst challenges (Kenric, 1:18:36)**
 
 * Working from [Improving Challenge Continuity](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/60) card. It’s good that the community is now defining all the funding challenges instead of having some set by IOG; but in fund 7 there was concern from some people that some significant challenges which had been in previous rounds, were dropped.
-* Discussion of possible methods for ensuring some continuity for key challenge settings:
-  * different thresholds for voting for new challenges;\
-    using amount of votes to determine the challenge budget;
-  * dealing with challenges that are poorly-framed, and whether the wording can be edited after a challenge has been voted for;
-  * whether CC itself can influence continuity by promoting or recommending particular challenge settings;
-  * addressing low voter engagement (in fund 6 voters on average voted for only 9 things)
-  * possibly a role for challenge teams in this
+*   Discussion of possible methods for ensuring some continuity for key challenge settings:
 
-<mark style="color:red;">**ACTION ITEM**</mark>**:** This will stay as a card on the board.
+    * different thresholds for voting for new challenges;
+    * using amount of votes to determine the challenge budget;
+    * dealing with challenges that are poorly-framed, and whether the wording can be edited after a challenge has been voted for;
+    * whether CC itself can influence continuity by promoting or recommending particular challenge settings;
+    * addressing low voter engagement (in fund 6 voters on average voted for only 9 things)
+    * possibly a role for challenge teams in this
 
-**Veteran Community Advisor stage (Tevo, 1:30:09)**
+    <mark style="color:red;">**ACTION ITEM**</mark>**:** This will stay as a card on the board and be tracked.
+
+### **Veteran Community Advisor stage (Tevo, 1:30:09)**
 
 * Increased CA guidance has led to much more detail on assessments this round
-* But a problem has emerged that most CA reviews now look at the guidance and engage in a tick-box exercise of “does the proposal contain X, Y and Z?” rather than actually assessing the proposal or offering any insight. Possibly due to use of closed yes/no questions ( “Does this proposal meet the challenge setting” rather than “WHY do you think it meets the challenge setting?”)
+* But a problem has emerged that most CA reviews now look at the guidance and engage in a tick-box exercise of “does the proposal contain X, Y and Z?” rather than actually assessing the proposal or offering any insight. Possibly due to use of closed yes/no questions ( “Does this proposal meet the challenge setting” rather than “WHY do you think it meets the challenge setting?”)\
+  <mark style="color:red;">**ACTION ITEM:**</mark>** ** tackle these issues in a more focused meeting in January
 
-<mark style="color:red;">**A**</mark><mark style="color:red;"><mark style="background-color:purple;">**CTION ITEM**<mark style="background-color:purple;"></mark>**:** tackle these issues in a more focused meeting in January
+**Discuss website (Allison, 1:37:34)**\
+****<mark style="color:red;">**ACTION ITEM:**</mark>** ** to be discussed in Slack.
 
-&#x20;****&#x20;
-
-**Discuss website (Allison, 1:37:34)**
-
-**ACTION ITEM:** to be discussed in Slack.
-
-&#x20;
-
-**CC-sponsored proposals (Tevo, 1:38:28)**
+### **CC-sponsored proposals (Tevo, 1:38:28)**
 
 * Feedback on discussion between Tevo, Allison and Stephen about how to decide which proposals CC should sponsor and promote.
-* See **** [https://github.com/Catalyst-Circle/Catalyst-Circle-Coordination/issues/1](https://github.com/Catalyst-Circle/Catalyst-Circle-Coordination/issues/1) (scroll down to “_Sponsorship of community proposals”_
+* See **** [https://github.com/Catalyst-Circle/Catalyst-Circle-Coordination/issues/1](https://github.com/Catalyst-Circle/Catalyst-Circle-Coordination/issues/1) (scroll down to “_Sponsorship of community proposals”)_
 * Idea that CC could sponsor or promote proposals originating from outside CC which aim to improve Catalyst processes. Need to define the process for selecting these and ensure it is fair and involves the community; but a CC endorsement of a proposal, after the VCA process is complete,  could offer an additional layer of information for voters.
-* Need to pay attention to timing, so there is time to involve the community**) (Harris, 1:43:49)**
+* pay attention to timing, so there is time to involve the community**) (Harris, 1:43:49)**
 * Does the community want CC to sponsor proposals? **(Stephen, 1:45:05)**
 
-&#x20;****&#x20;
-
-**ACTION ITEM:** create this as a card for further discussion, at a more general level: **** [Circle relationship with Catalyst Proposals](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/61)
+<mark style="color:red;">**ACTION ITEM**</mark>**:** created this as a card for further discussion, at a broader level: **** [Circle relationship with Catalyst Proposals](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/61)
 
 ## 5) Feeback form and close (1:46:28)
 
