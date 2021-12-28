@@ -14,7 +14,7 @@ Recording of CCv2 meeting 9th Dec 2021
 
 ### Speaker percentages
 
-Nori (18%), Harris (17%), Kenric (13%), Allison (13%), Stephen (12%), Raymond (9%), Tevo (9%), Matthias (6%), JP (3%)
+**Nori** (18%), **Harris** (17%), **Kenric** (13%), **Allison** (13%), **Stephen** (12%), **Raymond** (9%), **Tevo** (9%), **Matthias** (6%), **JP** (3%)
 
 ### Abbreviations used / Glossary
 
