@@ -199,7 +199,7 @@ The most common words used in this meeting were:
 
 ### Intelligent-verbatim transcript of this meeting
 
-Coming soon
+{% file src="../.gitbook/assets/Meeting #4 Dec 23rd 2021 QA-DAO Verbatim transcript, corrected.doc" %}
 
 ### Agenda for this meeting
 
