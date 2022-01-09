@@ -127,11 +127,54 @@ The Stand-up is a go-round using the [Prioritised Problems GitHub board](https:/
 
 ### **Bullying on Telegram and culture of listening (43:57)**
 
+**Key points:**
+
+* **(Stephen, 43:57)** An experience of bullying was raised by a community member, who asked Stephen to bring it to Circle’s attention. It’s not been added to the board as a prioritised problem, but only as an issue.
+* **(Kenric, 45:13)** The specific incident is important, but Circle is not the right forum to mediate it. **(general agreement)**
+* **(Stephen, 46:35)**  This is part of a broader, long-standing issue around divergent voices being drowned out by the loudest voices; lack of an issue management system; IOG’s lack of capability to process unsolicited feedback; IOG using “shift” responses rather than “support” responses , i.e. __ minimising, rationalising, and reframing to fit its own contexts.
+* **(Raymond, 50:25)** SPOs feel IOG already have a plan before involving the community; the community is getting impatient; trust issue that IOG will just do things their way. Also lack of awareness among SPOs of what Circle is**.**
+* **(Stephen, 53:21)** IOG have a pattern of “seeking control” responses, and rely too much on surveys. See [Google’s Aristotle project on teams and listening](https://thegeniusworks.com/2018/11/project-aristotle-what-google-learned-from-its-quest-to-build-the-perfect-team-group-dynamics-emotional-intelligence-and-psychological-safety/). There are communities within Catalyst who do this better – ETH for example – that IOG could learn from.
+* **(Tevo 56:45)** Does Telegram have community moderators, or only IOG ones?
+* **(Harris 58:51)** Perhaps members of underrepresented groups should be invited to be represented at Circle**.**
+* **(Kenric 1:01:09)** Agree Telegram is problematic; perhaps bullying and harassment have not been taken seriously enough. To build an open, collaborative community you have to make yourself vulnerable, so moderation is needed to enable people to feel safe to be vulnerable.
+* **(Allison 1:03:46)** I am puzzled why there are not more women in Catalyst. I am a woman and I enjoy Catalyst Telegram, but I recognise that not every woman’s experience is the same as mine.
+* **(Stephen 1:05:29)** People who do not see people like themselves in Catalyst, can feel invisible
+* **(Harris 1:07:24)** Maybe IOG should be less ready to set up channels, and should  confine communication to IdeaScale.
+* **(Allison 1:09:38)** How do we listen to voices that are not loud?
+* **(Stephen 1:10:16)** Go to them and their communities.
+* **(Matthias 1:11:24)** If moderation teams are known to exist e.g. on IdeaScale, then if they don’t act when questionable things are said, it looks as though those things are true.
+* **(Nori 1:14:11)** It’s not only a moderation issue; wider issues are about community culture, what sort of culture we want to build. If IOG do lack capacity to moderate, then bring expertise in from community members who do have that capacity.
+
+<mark style="color:red;">**ACTION POINT**</mark>: create a problem-sensing ticket about creating a culture of listening, and creating a more inclusive culture. Exact framing to be discussed.
+
 ### **Review Community Moderation Guidelines from Ideascale FAQ (1:16:20)**
+
+* See [guidelines](https://docs.google.com/document/d/1G\_\_eWrmsUxecET2e3zIniPSQJ-FWI1YAGJ-vLwzm8U8/edit).
+* **(Harris, 1:18:15)** Moderation guidelines on IdeaScale are in FAQ at bottom of page. They may need to be modified; applied or used differently; and maybe we need better flagging tools when they are not adhered to.
+* **(Kenric, 1:23:07)** It can be a security issue. Conflicts attract crowds, and captures the agenda and the resources of the community.
+* &#x20;**(Matthias 1:25:56)** If enforcement includes possible banning, would IOG be prepared to even ban the executives of companies it partners with, if needed?
+* **(Raymond 1:28:04)** The guidelines need to be more visible on IdeaScale.
 
 ### **Catalyst Parameters Pilot (1:28:50)**
 
+* See [slides](https://docs.google.com/presentation/d/1KkhFravzMdHgJdS-qm54YSEEFkQmURqoBG5vDZmJoZc/edit#slide=id.gf4b2dab051\_0\_0). We can experiment and iterate changing Catalyst parameters in different ways.
+* &#x20;**(1:33:53)** Start with only changing a a couple of parameters at first. Examples of parameters that could be changed are often dates – e.g. funds distribution date, dates for insight sharing, etc; but also things like CA rewards, proposal acceptance threshold. Technical Council would review proposed changes and advise.
+* **(1:39:31)** Suggested steps for Circle to create a parameter change proposal: decide  how to integrate with the Technical Council; how to vote; how to share decisions with the community. Can we make the process less manual?
+* **(1:41:37)** How will we vote for the Technical Council in the future?
+
+**Questions**
+
+* &#x20;**(Stephen 1:42:53)** This gives a roadmap, which was a main question from the Auditability challenge team.
+* **(Kenric 1:43:40)** For this to work well, the legitimacy of Circle needs to be strengthened; and we need an operational budget to resource it.
+* **(Raymond 1:46:58)** Agree that Circle’s legitimacy needs work. Also – will the Technical Council be appointed at first, and only later elected?
+* **(Tevo 1:48:55)** How much community involvement will there be in decisions about paramenter changes? Can we start now, collecting ideas and working out what the process will be? And, clarity on exactly what is in scope, what we can change?
+* **(Kenric 1:52:25)** First – how to select the Technical Council is a prioritised problem on the board and is still to be worked on. Second – when all this involves a billion dollar treasury, can we continue to use thielanguage of experiment and prototyping – do we need to be more serious and strategic?
+
 ### **Catalyst Circle as a Funded Proposer (KPIs and status updates (1:54:10)**
+
+* Progress report due on 10th Jan on Circle's Fund 6 funded proposal – everyone to add to their feedback form some information on their progress this month. Allison to help write it up.
+
+<mark style="color:red;">**ACTION ITEM**</mark> - work out how to do this in a more structured way for the February report.
 
 ### **Catalyst Advisors Reputation Requirements**
 
