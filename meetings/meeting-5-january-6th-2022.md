@@ -151,7 +151,7 @@ The Stand-up is a go-round using the [Prioritised Problems GitHub board](https:/
 
 <mark style="color:red;">**ACTION POINT**</mark>: create a problem-sensing ticket about creating a culture of listening, and creating a more inclusive culture. Exact framing to be discussed.
 
-### **Review Community Moderation Guidelines from Ideascale FAQ (1:16:20)**
+### **Review Community Moderation Guidelines from Ideascale FAQ (1:16:17)**
 
 * See [guidelines](https://docs.google.com/document/d/1G\_\_eWrmsUxecET2e3zIniPSQJ-FWI1YAGJ-vLwzm8U8/edit).
 * **(Harris, 1:18:15)** Moderation guidelines on IdeaScale are in FAQ at bottom of page. They may need to be modified; applied or used differently; and maybe we need better flagging tools when they are not adhered to.
@@ -159,7 +159,7 @@ The Stand-up is a go-round using the [Prioritised Problems GitHub board](https:/
 * &#x20;**(Matthias 1:25:56)** If enforcement includes possible banning, would IOG be prepared to even ban the executives of companies it partners with, if needed?
 * **(Raymond 1:28:04)** The guidelines need to be more visible on IdeaScale.
 
-### **Catalyst Parameters Pilot (1:28:50)**
+### **Catalyst Parameters Pilot (1:28:47)**
 
 * See [slides](https://docs.google.com/presentation/d/1KkhFravzMdHgJdS-qm54YSEEFkQmURqoBG5vDZmJoZc/edit#slide=id.gf4b2dab051\_0\_0). We can experiment and iterate changing Catalyst parameters in different ways.
 * &#x20;**(1:33:53)** Start with only changing a a couple of parameters at first. Examples of parameters that could be changed are often dates – e.g. funds distribution date, dates for insight sharing, etc; but also things like CA rewards, proposal acceptance threshold. Technical Council would review proposed changes and advise.
