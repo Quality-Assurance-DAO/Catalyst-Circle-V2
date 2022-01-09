@@ -50,6 +50,10 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
 
 ## 1) Opening, agenda (0:00)
 
+* Opening check-in **0:02**
+* Agenda: checking the agenda was done later in this meeting, at **41:37**
+* Lots of Covid around – general need to be forgiving of schedules and timetables, as many people might be out of action**. (Nori, 5:47)**
+
 ## 2) Circle members' work (6:33)
 
 **Explanation (Nori, 6:33)**
@@ -150,3 +154,5 @@ The most common words used in this meeting were:
 coming soon
 
 ### Agenda for this meeting
+
+{% file src="../.gitbook/assets/Catalyst Circle Meeting Agenda #5 - Jan 6, 2022 (1).doc" %}
