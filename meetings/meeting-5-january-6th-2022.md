@@ -2,6 +2,10 @@
 
 ## Meeting recording
 
+{% embed url="https://www.youtube.com/watch?v=DpeDTtfsHU4" %}
+Recording of CCv2 meeting #5, 6th Jan 2022&#x20;
+{% endembed %}
+
 ## Minutes of Catalyst Circle V2 Meeting #5
 
 ### Present (in order of first speaking)
