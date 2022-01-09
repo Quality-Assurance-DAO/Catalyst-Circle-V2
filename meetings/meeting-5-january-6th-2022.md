@@ -30,7 +30,7 @@ CTO – Chief Technology Officer
 
 DID – [Decentralised identifiers](https://en.wikipedia.org/wiki/Decentralized\_identifiers)
 
-ETH – Eastern Townhall
+ETH – [Eastern Townhall](https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg)
 
 Gimbalabs - [https://gimbalabs.com/gimbalgrid](https://gimbalabs.com/gimbalgrid)
 
