@@ -141,6 +141,8 @@ Meeting ends 1:56:12
 
 The most common words used in this meeting were:
 
+![](<../.gitbook/assets/frequentword mtg-5.jpg>)
+
 ## **Appendix**
 
 ### Intelligent-verbatim transcript of this meeting
