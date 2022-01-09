@@ -6,7 +6,7 @@
 
 ### Present (in order of first speaking)
 
-**Nori Nishigaya** (facilitator); **Kenric Nelson** (representing Community Advisors); **Tevo Saks** (representing Toolmakers and Maintainers); **Allison Fromm** (representing general ADA voters ); **Stephen Whitenstall** (representing Funded Proposers); **Harris Warren** (representing IOG); **Raymond Mata** (representing stakepool operators); **Matthias Sieber** (representing Cardano Foundation); **JP** (secretary).
+**Nori Nishigaya** (facilitator); **Kenric Nelson** (representing Community Advisors); **Tevo Saks** (representing Toolmakers and Maintainers); **Allison Fromm** (representing general ADA holders ); **Stephen Whitenstall** (representing Funded Proposers); **Harris Warren** (representing IOG); **Raymond Mata** (representing stakepool operators); **Matthias Sieber** (representing Cardano Foundation); **JP** (secretary).
 
 ### Speaker percentages
 
