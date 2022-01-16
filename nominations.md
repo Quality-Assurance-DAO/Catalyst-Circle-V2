@@ -16,7 +16,7 @@ The voting results, and the nomination statements from each of the candidates fo
 
 ## Community Advisors
 
-Initially, several people either nominated themselves, or were nominated by others, for this role; but they all withdrew or did not complete their form, so at election, Kenric Nelson was the only candidate.
+Initially, 11 people either nominated themselves, or were nominated by others, for this role; but they all withdrew or did not complete their form, so at election, Kenric Nelson was the only candidate.
 
 ### The results
 
@@ -35,6 +35,8 @@ Statement:
 > _As a Catalyst Circle member guiding the Community Advisors, I would strive to contribute two principal things to the leadership. First, would be a plan to strengthen the recruitment, training, mentorship, and assessment of Community Advisors. I'd like to see the CA program develop the rigor of academic standards and the lean practicality of commercial execution. Secondly, I'd like to contribute the experience and expertise I've developed in human and machine decision systems to the design of Catalyst processes which can assure the fulfillment of the communities aspirations for world-class distributed decision making._
 
 ## Funded Proposers
+
+Initially, 7 people nominated themselves or were nominated by others; but 4 of these withdrew, leaving 3 candidates at election.
 
 ### The results
 
@@ -56,6 +58,8 @@ Statement:
 > _Strong interest in participating and co-shaping this exciting decentralized governance journey, long industry & innovation experience._
 
 ## General ADA Holders
+
+Initially, 8 people nominated themselves or were nominated by others; but 5 of these withdrew, leaving 3 candidates at election.
 
 ### The results
 
@@ -84,6 +88,8 @@ Statement:
 > _"Honest trade is peaceful!" -Aldion_
 
 ## Stakepool Operators
+
+Initially, 5 people nominated themselves or were nominated by others; but 2 of these withdrew, leaving 3 candidates at election.
 
 ### The results
 
@@ -116,6 +122,8 @@ Note: Ron was nominated by 2 people. Both statements are included below.
 > _Experienced SPO, has great leadership and communication skills. Very active in Cardano community with other gourps (like toolmakers)._
 
 ## Toolmakers & Maintainers
+
+Initially, 5 people nominated themselves or were nominated by others; but 2 of these withdrew, leaving 3 candidates at election.
 
 Tevo Saks and George Lovegrove received equal votes. They discussed it and decided that Tevo would take the seat on Circle v2.
 
