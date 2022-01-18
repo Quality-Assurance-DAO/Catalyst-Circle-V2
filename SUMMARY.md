@@ -11,7 +11,7 @@
 * [Explanation of the Election Process](explanation-of-the-election-process.md)
 * [Nominations and vote](nominations/README.md)
   * [Governance Day Recordings](nominations/governance-day-recordings.md)
-* [Jan 2022 discussion of future voting process](jan-2022-discussion-of-future-voting-process.md)
+* [Jan 2022 discussion of future Circle election process](jan-2022-discussion-of-future-circle-election-process.md)
 
 ## CCv2 Meetings
 
