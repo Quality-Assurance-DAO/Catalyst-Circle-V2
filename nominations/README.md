@@ -20,7 +20,7 @@ Initially, 11 people either nominated themselves, or were nominated by others, f
 
 ### The results
 
-![](<.gitbook/assets/CA election pie chart ccv2.JPG>)
+![](<../.gitbook/assets/CA election pie chart ccv2.JPG>)
 
 ### <mark style="background-color:green;">Kenric Nelson - statement</mark>
 
@@ -40,7 +40,7 @@ Initially, 7 people nominated themselves or were nominated by others; but 4 of t
 
 ### The results
 
-![](<.gitbook/assets/funded proposer election pie chart ccv2.JPG>)
+![](<../.gitbook/assets/funded proposer election pie chart ccv2.JPG>)
 
 ### <mark style="background-color:green;">Stephen Whitenstall - statement</mark>
 
@@ -63,7 +63,7 @@ Initially, 8 people nominated themselves or were nominated by others; but 5 of t
 
 ### The results
 
-![](<.gitbook/assets/general voters election pie chart ccv2.JPG>)
+![](<../.gitbook/assets/general voters election pie chart ccv2.JPG>)
 
 ### <mark style="background-color:green;">Allison Fromm - statement</mark>
 
@@ -93,7 +93,7 @@ Initially, 5 people nominated themselves or were nominated by others; but 2 of t
 
 ### The results
 
-![The election result for Stakepool Operators representative, CCv2](<.gitbook/assets/SPO election pie chart.JPG>)
+![The election result for Stakepool Operators representative, CCv2](<../.gitbook/assets/SPO election pie chart.JPG>)
 
 ### <mark style="background-color:green;">Raymond Mata - statement</mark>
 
@@ -129,7 +129,7 @@ Tevo Saks and George Lovegrove received equal votes. They discussed it and decid
 
 ### The results
 
-![](<.gitbook/assets/T\&M election pie chart.JPG>)
+![](<../.gitbook/assets/T\&M election pie chart.JPG>)
 
 ### <mark style="background-color:green;">Tevo Saks - statement</mark>
 
