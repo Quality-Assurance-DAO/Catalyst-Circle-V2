@@ -2,6 +2,8 @@
 
 ## Meeting recording
 
+{% embed url="https://youtu.be/8wf19JMGH4w" %}
+
 ## Minutes of Catalyst Circle V2 Meeting #6
 
 ### Present (in order of first speaking)
