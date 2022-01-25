@@ -20,6 +20,7 @@
 * [Meeting 3 - December 9th, 2021](ccv2-meetings/meeting-3-december-9th-2021.md)
 * [Meeting 4 - December 23rd, 2021](ccv2-meetings/meeting-4-december-23rd-2021.md)
 * [Meeting 5 - January 6th, 2022](ccv2-meetings/meeting-5-january-6th-2022.md)
+* [Meeting 6 - January 20th, 2022](ccv2-meetings/meeting-6-january-20th-2022.md)
 
 ## PUBLIC ENGAGEMENT SESSIONS
 
