@@ -190,14 +190,14 @@ See [Catalyst Journey Map Miro board](https://miro.com/app/board/uXjVOb63P3o=/?i
 
 <mark style="color:red;">**ACTION POINT**</mark>**:** Tevo to do an ATH breakout room about this research.
 
-## **4. Feedback form and close (1:46:41)**
+## **4. Close (1:46:41)**
 
 Next meeting, in 2 weeks, will be a retrospective.\
 Meeting ends 1:48:47
 
 ## **Key words from this meeting**
 
-coming soon
+![](<../.gitbook/assets/frequentword 6.JPG>)
 
 ## **Appendix**
 
