@@ -203,8 +203,8 @@ Meeting ends 1:48:47
 
 ### Intelligent-verbatim transcript of this meeting
 
-coming soon
+{% file src="../.gitbook/assets/Meeting #6, Jan 20 2022 QA-DAO Verbatim transcript, corrected.doc" %}
 
 ### Agenda for this meeting
 
-coming soon
+{% file src="../.gitbook/assets/CCv2 Meeting Agenda #6 - Jan 20, 2022 (1).doc" %}
