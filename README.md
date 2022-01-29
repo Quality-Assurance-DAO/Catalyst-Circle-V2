@@ -1,5 +1,5 @@
 ---
-description: Catalyst Circle Version 2
+description: 'Catalyst Circle version 2: November 2021 to January 2022'
 ---
 
 # Catalyst Circle V2
