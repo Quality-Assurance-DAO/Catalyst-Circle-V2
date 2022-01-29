@@ -25,3 +25,7 @@
 ## PUBLIC ENGAGEMENT SESSIONS
 
 * [After Town Hall, 17th November 2021](public-engagement-sessions/after-town-hall-17th-november-2021.md)
+
+## activities
+
+* [The Prioritised Problems board](activities/the-prioritised-problems-board.md)
