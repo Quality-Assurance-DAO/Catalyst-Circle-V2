@@ -14,4 +14,4 @@ The Catalyst Circle Oversight GitBooks are produced by [**Quality Assurance DAO*
 
 ### Funded by Project Catalyst&#x20;
 
-Funded by the Project Catalyst Fund 6 proposal [Oversight of Catalyst Circle](https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088).
+Production of this Gitbook is funded by the Project Catalyst Fund 6 proposal [Oversight of Catalyst Circle](https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088).
