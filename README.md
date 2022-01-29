@@ -12,6 +12,10 @@ The Catalyst Circle Oversight GitBooks are produced by [**Quality Assurance DAO*
 * **CCv2** (Nov 2021-Jan 2022) - you are here
 * ****[**CCv3**](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v3/) **** (Feb - April 2022)
 
+### CCv2 members
+
+![](<.gitbook/assets/CCv2 members.JPG>)
+
 ### Funded by Project Catalyst&#x20;
 
 Production of this Gitbook is funded by the Project Catalyst Fund 6 proposal [Oversight of Catalyst Circle](https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088).
