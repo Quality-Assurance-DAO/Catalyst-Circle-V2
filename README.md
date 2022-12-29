@@ -6,11 +6,12 @@ description: 'Catalyst Circle version 2: Nov 2021-Jan 2022'
 
 ## Overview <a href="#overview" id="overview"></a>
 
-The Catalyst Circle Oversight GitBooks are produced by [**Quality Assurance DAO**](https://quality-assurance-dao.github.io)**.** Each Gitbook documents one iteration of Catalyst Circle, including the Governance Day and elections for that iteration.**​**
+The Catalyst Circle Oversight GitBooks are produced by [**Quality Assurance DAO**](https://quality-assurance-dao.github.io/)**.** Each Gitbook documents one iteration of Catalyst Circle, including the Governance Day and elections for that iteration.**​**
 
 * ****[**CCv1**](https://catalyst-swarm.gitbook.io/catalyst-circle/) (general intro to Catalyst Circle, and July-Oct 2021)
 * **CCv2** (Nov 2021-Jan 2022) - you are here
 * ****[**CCv3**](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v3/) **** (Feb - April 2022)
+* ****[**CCv4**](https://quality-assurance-dao.gitbook.io/catalyst-circle-v4/) (Dec 2022 - June 2023
 
 ### The members of CCv2
 
